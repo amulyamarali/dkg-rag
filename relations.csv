@@ -1,0 +1,1030 @@
+Sentence,Head,Relation,Tail
+"Architecturally, the school has a Catholic character",school,has,character
+"Architecturally, the school has a Catholic character",Catholic,practiced by,architecturally
+"Architecturally, the school has a Catholic character",Catholic,field of work,architecturally
+"Architecturally, the school has a Catholic character",Catholic,has part,architecturally
+"Architecturally, the school has a Catholic character",Catholic,has part,Architecturally
+"Architecturally, the school has a Catholic character",Architecturally,religion,Catholic
+Atop the Main Building's gold dome is a golden statue of the Virgin Mary,golden statue,depicts,Virgin Mary
+Atop the Main Building's gold dome is a golden statue of the Virgin Mary,statue,depicts,Virgin Mary
+Atop the Main Building's gold dome is a golden statue of the Virgin Mary,golden statue of the Virgin Mary,location,Main Building
+Atop the Main Building's gold dome is a golden statue of the Virgin Mary,statue of the Virgin Mary,depicts,Virgin Mary
+Atop the Main Building's gold dome is a golden statue of the Virgin Mary,statue of the Virgin Mary,location,Main Building
+"Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend ""Venite Ad Me Omnes""",Venite Ad Me Omnes,depicts,Christ
+"Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend ""Venite Ad Me Omnes""",Christ,present in work,Venite Ad Me Omnes
+"Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend ""Venite Ad Me Omnes""",statue of Christ,part of,Venite Ad Me Omnes
+"Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend ""Venite Ad Me Omnes""",Venite Ad Me Omnes,has part,statue of Christ
+"Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend ""Venite Ad Me Omnes""",Christ,notable work,Venite Ad Me Omnes
+"Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend ""Venite Ad Me Omnes""",Venite Ad Me Omnes,characters,Christ
+Next to the Main Building is the Basilica of the Sacred Heart,Basilica of the Sacred Heart,part of,Main Building
+Next to the Main Building is the Basilica of the Sacred Heart,Main Building,has part,Basilica of the Sacred Heart
+Next to the Main Building is the Basilica of the Sacred Heart,Basilica of the Sacred Heart,part of part of,Main Building Main Building
+Next to the Main Building is the Basilica of the Sacred Heart,Main Building,has part has part,Basilica of the Sacred Heart Basilica of the Sacred Heart
+Next to the Main Building is the Basilica of the Sacred Heart,Basilica of the Sacred Heart,part of part of part of,Main Building Main Building Main Building
+Next to the Main Building is the Basilica of the Sacred Heart,Basilica of the Sacred Heart,located in the administrative territorial entity part of,Main Building Main Building
+"Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection",Grotto,instance of,Marian place of prayer and reflection
+"Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection",Grotto,instance of,Marian place of prayer
+"Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection",Grotto,instance of,Marian
+"Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection",Grotto,instance of,Marian place
+"Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection",Grotto,part of,Marian
+"It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858",It,is,replica
+"It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858",Lourdes,country,France
+"It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858",the grotto,located in the administrative territorial entity country,Lourdes France
+"It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858",Saint Bernadette Soubirous,residence,Lourdes
+"It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858",Saint Bernadette Soubirous,place of birth,Lourdes
+"It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858",the grotto,located in the administrative territorial entity,Lourdes
+"At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary",Gold Dome,has part,statue of Mary
+"At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary",statue of Mary,part of,Gold Dome
+"At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary",statue of Mary,depicts,Mary
+"At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary",statue of Mary,location,Gold Dome
+"At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary",Gold Dome,depicts,Mary
+"At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary",statue of Mary,instance of,statue
+"As at most other universities, Notre Dame's students run a number of news media outlets",students,run,number
+"As at most other universities, Notre Dame's students run a number of news media outlets",news media outlets,facet of,Notre Dame's students run a number of news media outlets
+"As at most other universities, Notre Dame's students run a number of news media outlets",news media outlets,has part,Notre Dame's students run a number of news media outlets
+"As at most other universities, Notre Dame's students run a number of news media outlets",students run a number of news media outlets,part of,Notre Dame's
+"As at most other universities, Notre Dame's students run a number of news media outlets",students run a number of news media outlets,part of,Notre Dame
+"As at most other universities, Notre Dame's students run a number of news media outlets",students run a number of news media outlets,facet of,Notre Dame's
+"The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals",outlets,include,newspapers
+"The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals",journals,subclass of,magazine
+"The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals",journals,subclass of,magazines
+"The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals",radio,instance of,outlets
+"The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals",television station,instance of,outlets
+"The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals",journals,instance of,outlets
+"The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals",journals,subclass of,outlets
+"Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States",Scholastic magazine,inception,September 1876
+"Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States",Scholastic,inception,September 1876
+"Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States",Scholastic magazine,inception country of origin,September 1876 United States
+"Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States",Scholastic magazine,country of origin,United States
+"Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States",Scholastic magazine,inception country,September 1876 United States
+"The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork",The Juggler,instance of,magazine
+"The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork",The Juggler,main subject,student literature
+"The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork",The Juggler,main subject,student literature and artwork
+"The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork",student literature,subclass of,artwork
+"The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork",The Juggler,field of work,student literature
+The Dome yearbook is published annually,The Dome,instance of,yearbook
+The Dome yearbook is published annually,Dome yearbook,instance of,yearbook
+The Dome yearbook is published annually,The Dome yearbook,instance of,yearbook
+The Dome yearbook is published annually,Dome,instance of,yearbook
+The Dome yearbook is published annually,Dome yearbook,instance of,Yearbook
+"The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College",newspapers,have,with
+"The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College",The Observer,instance of,newspaper
+"The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College",Saint Mary's College,parent organization,Notre Dame
+"The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College",Notre Dame,has part,Saint Mary's College
+"The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College",The Observer,owned by,Notre Dame
+"The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College",Saint Mary's College,part of,Notre Dame
+"Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University",Observer,is,publication
+"Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University",The Observer,instance of,independent publication
+"Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University",Scholastic,instance of,independent publication
+"Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University",The Dome,instance of,independent publication
+"Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University",Scholastic,owner of,The Observer
+"Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University",The Observer,owned by,Scholastic
+"In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published",Common Sense,inception,1987
+"In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published",Common Sense,inception instance of,1987 newspaper
+"In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published",Common Sense,instance of,newspaper
+"Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production",paper,went,into
+"Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production",Irish Rover,inception,2003
+"Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production",2003,point in time,2003
+"Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production",Irish Rover,inception political ideology,2003 conservative
+"Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production",Irish Rover,inception main subject,2003 conservative
+"Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production",Irish Rover,publication date,2003
+"Neither paper is published as often as The Observer; however, all three are distributed to all students",The Observer,owned by,student
+"Neither paper is published as often as The Observer; however, all three are distributed to all students",student,owner of,The Observer
+"Neither paper is published as often as The Observer; however, all three are distributed to all students",The Observer,different from,The Observer
+"Neither paper is published as often as The Observer; however, all three are distributed to all students",The Observer,instance of,paper
+"Neither paper is published as often as The Observer; however, all three are distributed to all students",student,owner of owner of,The Observer The Observer
+"Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut",Beyond Politics,inception,2008
+"Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut",Beyond Politics,inception main subject,2008 political science
+"Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut",Beyond Politics,inception field of work,2008 political science
+"Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut",Beyond Politics,inception instance of,2008 academic journal
+"Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut",Beyond Politics,publication date main subject,2008 political science
+"The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome)",university,is,seat
+"The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome)",Congregation of Holy Cross,headquarters location,Rome
+"The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome)",Congregation of Holy Cross,located in the administrative territorial entity,Rome
+"The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome)",official headquarters,located in the administrative territorial entity,Rome
+"The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome)",its official headquarters,located in the administrative territorial entity,Rome
+"Its main seminary, Moreau Seminary, is located on the campus across St",seminary,located,on
+"Its main seminary, Moreau Seminary, is located on the campus across St",Moreau Seminary,instance of,seminary
+"Its main seminary, Moreau Seminary, is located on the campus across St",Moreau Seminary,instance of part of,seminary campus
+"Its main seminary, Moreau Seminary, is located on the campus across St",campus,has part,Moreau Seminary
+"Its main seminary, Moreau Seminary, is located on the campus across St",Moreau Seminary,instance of located in the administrative territorial entity,seminary Moreau
+"Its main seminary, Moreau Seminary, is located on the campus across St",Moreau Seminary,instance of instance of,seminary campus
+Joseph lake from the Main Building,Main Building,located in or next to body of water,St. Joseph lake
+Joseph lake from the Main Building,Main Building,located in or next to body of water,St. Joseph
+Joseph lake from the Main Building,Main Building,located in or next to body of water,Joseph lake
+Joseph lake from the Main Building,St. Joseph,instance of,lake
+Joseph lake from the Main Building,St. Joseph lake,located in the administrative territorial entity,Main Building
+"Old College, the oldest building on campus and located near the shore of St",Old College,part of,campus
+"Old College, the oldest building on campus and located near the shore of St",campus,has part,Old College
+"Old College, the oldest building on campus and located near the shore of St",Old College,part of,Old College
+"Old College, the oldest building on campus and located near the shore of St",Old College,has part,Old College
+"Old College, the oldest building on campus and located near the shore of St",Old College,located in the administrative territorial entity,Old College
+"Mary lake, houses undergraduate seminarians",seminarians,subclass of,undergraduate
+"Mary lake, houses undergraduate seminarians",seminarians,located in or next to body of water,Mary lake
+"Mary lake, houses undergraduate seminarians",seminarians,field of this occupation,undergraduate
+"Mary lake, houses undergraduate seminarians",undergraduate,practiced by,seminarians
+"Mary lake, houses undergraduate seminarians",Mary lake,occupant,seminarians
+"Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto",priests,reside,in
+"Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto",Fatima House,instance of,retreat center
+"Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto",Holy Cross House,instance of,retreat center
+"Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto",Columba Hall,part of,Fatima House
+"Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto",Columba Hall,located in the administrative territorial entity,Fatima House
+"Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto",Columba Hall,instance of,retreat center
+The university through the Moreau Seminary has ties to theologian Frederick Buechner,university,has,ties
+The university through the Moreau Seminary has ties to theologian Frederick Buechner,Frederick Buechner,field of work,theologian
+The university through the Moreau Seminary has ties to theologian Frederick Buechner,Frederick Buechner,educated at,Moreau Seminary
+The university through the Moreau Seminary has ties to theologian Frederick Buechner,Frederick Buechner,occupation,theologian
+The university through the Moreau Seminary has ties to theologian Frederick Buechner,Moreau Seminary,named after,Frederick Buechner
+The university through the Moreau Seminary has ties to theologian Frederick Buechner,Frederick Buechner,employer,Moreau Seminary
+"While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching",Buechner,praised,writers
+"While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching",Buechner Prize for Preaching,conferred by,Moreau Seminary
+"While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching",Buechner Prize,conferred by,Moreau Seminary
+"While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching",Notre Dame,has part,Moreau Seminary
+"While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching",Moreau Seminary,part of,Notre Dame
+"While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching",Buechner Prize for Preaching,named after,Moreau Seminary
+"While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching",Moreau Seminary,parent organization,Notre Dame
+"The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s",courses,were,part
+"The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s",College of Engineering,inception,1920
+"The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s",civil,subclass of,engineering
+"The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s",mechanical engineering,subclass of,engineering
+"The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s",mechanical,subclass of,engineering
+"The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s",civil,has part,mechanical engineering
+"The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s",mechanical engineering,part of,civil
+"The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s",mechanical engineering,subclass of,civil
+"Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B",college,includes,departments
+"Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B",civil engineering,subclass of,engineering
+"Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B",electrical engineering,subclass of,engineering
+"Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B",chemical and biomolecular engineering,subclass of,engineering
+"Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B",electrical engineering,part of,engineering
+"Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B",engineering,has part,electrical engineering
+S,St. Petersburg,located in the administrative territorial entity,Russia
+S,Russia,contains administrative territorial entity,St. Petersburg
+S,St. Petersburg,country,Russia
+S,Russia,capital,St. Petersburg
+S,São Paulo,country,Brazil
+S,Brazil,capital,São Paulo
+degrees offered,University of Pennsylvania,subsidiary,Wharton School
+degrees offered,Wharton School,parent organization,University of Pennsylvania
+degrees offered,George Washington University,located in the administrative territorial entity,"Washington, D.C."
+degrees offered,John F. Kennedy School of Government,part of,Harvard University
+degrees offered,Wharton School,part of,University of Pennsylvania
+degrees offered,University of Utah,located in the administrative territorial entity,Salt Lake City
+"Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B",college,offers,programs
+"Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B",Arts and Letters,instance of,dual degree programs
+"Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B",Business,instance of,dual degree programs
+"Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B",Arts and Letters,instance of,dual degree
+"Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B",Business,instance of,dual degree
+"Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B",Arts,instance of,dual degree
+"Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B",Letters,instance of,dual degree
+"Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B",Arts and Letters,subclass of,dual degree programs
+"Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B",Business,subclass of,dual degree programs
+A,Harvard University,has part,John F. Kennedy School of Government
+A,Harvard University,subsidiary,John F. Kennedy School of Government
+A,Harvard University,has part,John F. Kennedy School
+"and Master of Business Administration (MBA) degrees, respectively",Master of Business Administration,instance of,degrees
+"and Master of Business Administration (MBA) degrees, respectively",Master of Business Administration,instance of,degree
+"and Master of Business Administration (MBA) degrees, respectively",MBA,instance of,degrees
+"and Master of Business Administration (MBA) degrees, respectively",MBA,subclass of,Master of Business Administration
+"and Master of Business Administration (MBA) degrees, respectively",MBA,instance of,degree
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program,All,are,part
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program,First Year of Studies,part of,undergraduate colleges
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program,First Year of Studies,part of,Notre Dame
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program,First Year of Studies program,part of,Notre Dame
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program,First Year of Studies,subclass of,undergraduate college
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program,First Year of Studies,subclass of,undergraduate
+The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major,program,established,in
+The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major,First Year of Studies,inception,1962
+The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major,First Year of Studies program,inception,1962
+The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major,1962,point in time,1962
+The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major,First Year of Studies,start time,1962
+The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major,The First Year of Studies,inception,1962
+Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested,student,given,advisor
+Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested,academic advisor,field of this occupation,major
+Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested,major,practiced by,academic advisor
+Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested,major,has part,classes
+Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested,classes,part of,major
+Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested,academic advisor,instance of,major
+Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested,major,part of,classes
+"The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring",program,includes,Center
+"The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring",subject tutoring,subclass of,collaborative learning
+"The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring",collaborative learning,subclass of,subject tutoring
+"The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring",subject tutoring,part of,collaborative learning
+"The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring",collaborative learning,subclass of,learning
+"The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring",collaborative learning,instance of,subject tutoring
+"This program has been recognized previously, by U",United Nations,has part,General Assembly
+"This program has been recognized previously, by U",General Assembly,part of,United Nations
+"This program has been recognized previously, by U",United Nations,subsidiary,UNESCO
+"This program has been recognized previously, by U",UNESCO,parent organization,United Nations
+"This program has been recognized previously, by U",U.S. Army,conflict,World War II
+"This program has been recognized previously, by U",General Assembly,part of,U Nations
+"This program has been recognized previously, by U",General Assembly,parent organization,United Nations
+"News & World Report, as outstanding",outstanding,conferred by,News & World Report
+"News & World Report, as outstanding",News & World Report,has part,outstanding
+"News & World Report, as outstanding",outstanding,part of,News & World Report
+"News & World Report, as outstanding",outstanding,conferred by,U.S. News & World Report
+"News & World Report, as outstanding",outstanding,publisher,News & World Report
+"The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year",university,offered,degrees
+"The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year",Master of Arts,instance of,graduate degrees
+"The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year",Master of Arts,instance of,graduate degree
+"The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year",Master of Arts,subclass of,graduate degrees
+"The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year",Master of Arts,subclass of,graduate degree
+"The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year",Master of Arts,inception,1854
+The program expanded to include Master of Laws (LL,Master of Laws,said to be the same as,LL
+The program expanded to include Master of Laws (LL,LL,said to be the same as,Master of Laws
+The program expanded to include Master of Laws (LL,Master of Laws,has part,LL
+The program expanded to include Master of Laws (LL,LL,part of,Master of Laws
+The program expanded to include Master of Laws (LL,Master of Laws,part of,LL
+The program expanded to include Master of Laws (LL,LL,has part,Master of Laws
+The program expanded to include Master of Laws (LL,Master of Laws,subclass of,LL
+M,2008 Summer Olympics,point in time location country,2008 Beijing China
+M,Beijing,country,China
+M,China,capital,Beijing
+M,M,has part has part,M M
+M,M,part of,M
+M,M,has part,M
+M,M,part of part of,M M
+") and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees",Master,developed,with
+") and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees",Master of Civil Engineering,instance of,degrees
+") and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees",thesis,subclass of,degrees
+") and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees",Master of Civil Engineering,instance of,graduate school education
+") and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees",thesis,instance of,degrees
+") and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees",Master of Civil Engineering,instance of,graduate school
+"This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees",This,changed,in
+"This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees",Doctorate,subclass of,graduate degree
+"This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees",Doctorate,subclass of,graduate degrees
+"This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees",Doctorate,instance of,graduate degree
+"This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees",Doctorate,instance of,graduate degrees
+"This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees",Doctorate (PhD),subclass of,graduate degree
+Today each of the five colleges offer graduate education,each,offer,education
+Today each of the five colleges offer graduate education,graduate education,subclass of,college
+Today each of the five colleges offer graduate education,graduate education,subclass of,education
+Today each of the five colleges offer graduate education,graduate education,subclass of,colleges
+Today each of the five colleges offer graduate education,graduate,subclass of,education
+Today each of the five colleges offer graduate education,Graduate education,subclass of,college
+"Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M",Most,offer,programs
+"Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M",Master of Divinity,subclass of,PhD
+"Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M",PhD,different from,Master of Divinity
+"Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M",Master of Divinity,different from,PhD
+"Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M",Master of Divinity,subclass of,PhD programs
+"Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M",Master of Divinity,subclass of,PhD program
+Div,Div,different from,Div
+Div,Div,instance of,Div
+Div,Div,subclass of,Div
+Div,Div,part of,Div
+Div,Div,has part,Div
+) program also exists,program,has part,program
+) program also exists,program,part of,program
+) program also exists,Java,programming language,Java programming language
+) program also exists,Java programming language,influenced by,Java
+) program also exists,Java,influenced by,Java programming language
+"All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies",All,offer,programs
+"All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies",Pre-Professional Studies,subclass of,PhD programs
+"All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies",Pre-Professional Studies,subclass of,PhD
+"All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies",Department of Pre-Professional Studies,part of,College of Science
+"All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies",PhD,has part,Pre-Professional Studies
+"All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies",Pre-Professional Studies,part of,PhD
+"The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs",School,offers,Master
+"The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs",Master of Architecture,field of this occupation,Architecture
+"The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs",Architecture,practiced by,Master of Architecture
+"The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs",Master of Architecture,field of work,Architecture
+"The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs",Master of Architecture,part of,School of Architecture
+"The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs",Master of Architecture,subclass of,PhD
+The College of Business offers multiple professional programs including MBA and Master of Science in Accountancy programs,College,offers,programs
+The College of Business offers multiple professional programs including MBA and Master of Science in Accountancy programs,MBA,instance of,professional programs
+The College of Business offers multiple professional programs including MBA and Master of Science in Accountancy programs,Master of Science in Accountancy,instance of,professional programs
+The College of Business offers multiple professional programs including MBA and Master of Science in Accountancy programs,MBA,subclass of,professional programs
+It also operates facilities in Chicago and Cincinnati for its executive MBA program,It,operates,facilities
+It also operates facilities in Chicago and Cincinnati for its executive MBA program,Chicago,twinned administrative body,Cincinnati
+It also operates facilities in Chicago and Cincinnati for its executive MBA program,Cincinnati,twinned administrative body,Chicago
+It also operates facilities in Chicago and Cincinnati for its executive MBA program,executive MBA,located in the administrative territorial entity,Chicago
+It also operates facilities in Chicago and Cincinnati for its executive MBA program,executive MBA program,located in the administrative territorial entity,Chicago
+It also operates facilities in Chicago and Cincinnati for its executive MBA program,executive MBA,headquarters location,Chicago
+"Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years",Alliance,offers,program
+"Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years",elementary schools,followed by,high schools
+"Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years",Alliance for Catholic Education,field of work,Master of Education
+"Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years",Southern,country,United States
+"Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years",Alliance for Catholic Education,operating area,Southern United States
+"Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years",Alliance for Catholic Education,instance of,Master of Education
+The Joan B,The Joan B,has part,Joan B.
+The Joan B,Joan B.,member of,The Joan B
+The Joan B,The Joan B,has part,Joan B
+The Joan B,Joan B,member of,The Joan B
+The Joan B,Joan B.,part of,The Joan B
+The Joan B,Joan B,has part,Joan B.
+The Joan B,Joan B.,member of,Joan B
+The Joan B,Joan B,part of,The Joan B
+"Kroc Institute for International Peace Studies at the University of Notre Dame is dedicated to research, education and outreach on the causes of violent conflict and the conditions for sustainable peace",Institute,dedicated,to
+"Kroc Institute for International Peace Studies at the University of Notre Dame is dedicated to research, education and outreach on the causes of violent conflict and the conditions for sustainable peace",Kroc Institute for International Peace Studies,part of,University of Notre Dame
+"Kroc Institute for International Peace Studies at the University of Notre Dame is dedicated to research, education and outreach on the causes of violent conflict and the conditions for sustainable peace",University of Notre Dame,has part,Kroc Institute for International Peace Studies
+"Kroc Institute for International Peace Studies at the University of Notre Dame is dedicated to research, education and outreach on the causes of violent conflict and the conditions for sustainable peace",Kroc Institute for International Peace Studies,parent organization,University of Notre Dame
+"Kroc Institute for International Peace Studies at the University of Notre Dame is dedicated to research, education and outreach on the causes of violent conflict and the conditions for sustainable peace",University of Notre Dame,subsidiary,Kroc Institute for International Peace Studies
+"It offers PhD, Master's, and undergraduate degrees in peace studies",It,offers,PhD
+"It offers PhD, Master's, and undergraduate degrees in peace studies",PhD,instance of,degrees
+"It offers PhD, Master's, and undergraduate degrees in peace studies",Master's,instance of,degrees
+"It offers PhD, Master's, and undergraduate degrees in peace studies",undergraduate,subclass of,degrees
+"It offers PhD, Master's, and undergraduate degrees in peace studies",undergraduate,instance of,degrees
+It was founded in 1986 through the donations of Joan B,It,founded,in
+It was founded in 1986 through the donations of Joan B,1986,point in time,1986
+It was founded in 1986 through the donations of Joan B,Joan B,work period (start),1986
+It was founded in 1986 through the donations of Joan B,Joan B.,work period (start),1986
+It was founded in 1986 through the donations of Joan B,Joan B,inception,1986
+"Kroc, the widow of McDonald's owner Ray Kroc",McDonald's,founded by,Ray Kroc
+"Kroc, the widow of McDonald's owner Ray Kroc",Ray Kroc,employer,McDonald's
+"Kroc, the widow of McDonald's owner Ray Kroc",McDonald's,owned by,Ray Kroc
+"Kroc, the widow of McDonald's owner Ray Kroc",Ray Kroc,owner of,McDonald's
+The institute was inspired by the vision of the Rev,Rev.,subclass of,Rev.
+The institute was inspired by the vision of the Rev,Rev.,has part,Rev.
+The institute was inspired by the vision of the Rev,Rev.,instance of,vision
+The institute was inspired by the vision of the Rev,Rev.,facet of,Rev.
+The institute was inspired by the vision of the Rev,Rev,facet of,Rev.
+Theodore M,Theodore M.,child,Theodore M.
+Theodore M,Theodore M.,father,Theodore M.
+Theodore M,Theodore M.,sibling,Theodore M.
+Theodore M,Theodore M,child,Theodore M.
+Theodore M,Theodore M.,father,Theodore M
+Theodore M,Theodore M,father,Theodore M.
+Theodore M,Theodore M.,child,Theodore M
+"Hesburgh CSC, President Emeritus of the University of Notre Dame",University of Notre Dame,member of,CSC
+"Hesburgh CSC, President Emeritus of the University of Notre Dame",CSC,part of,University of Notre Dame
+"Hesburgh CSC, President Emeritus of the University of Notre Dame",CSC,parent organization,University of Notre Dame
+"Hesburgh CSC, President Emeritus of the University of Notre Dame",President Emeritus,part of,University of Notre Dame
+"Hesburgh CSC, President Emeritus of the University of Notre Dame",CSC,conferred by,University of Notre Dame
+The institute has contributed to international policy discussions about peace building practices,institute,contributed,to
+The institute has contributed to international policy discussions about peace building practices,peace building,subclass of,international policy discussions
+The institute has contributed to international policy discussions about peace building practices,peace building,subclass of,international policy
+The institute has contributed to international policy discussions about peace building practices,peace building,facet of,international policy discussions
+The institute has contributed to international policy discussions about peace building practices,peace building practices,subclass of,international policy discussions
+The institute has contributed to international policy discussions about peace building practices,peace building practices,facet of,international policy discussions
+The library system of the university is divided between the main library and each of the colleges and schools,system,divided,between
+The library system of the university is divided between the main library and each of the colleges and schools,main library,part of,library system of the university
+The library system of the university is divided between the main library and each of the colleges and schools,main library,instance of,library system
+The library system of the university is divided between the main library and each of the colleges and schools,main library,instance of,library
+The library system of the university is divided between the main library and each of the colleges and schools,main library,subclass of,library
+The library system of the university is divided between the main library and each of the colleges and schools,main library,part of,library system
+The main building is the 14-story Theodore M,building,is,M
+The main building is the 14-story Theodore M,Theodore M.,instance of,main building
+The main building is the 14-story Theodore M,Theodore M.,elevation above sea level,14
+The main building is the 14-story Theodore M,Theodore M,instance of,main building
+The main building is the 14-story Theodore M,Theodore M,elevation above sea level,14
+The main building is the 14-story Theodore M,Theodore M.,area,14
+"Hesburgh Library, completed in 1963, which is the third building to house the main collection of books",Hesburgh Library,inception,1963
+"Hesburgh Library, completed in 1963, which is the third building to house the main collection of books",Hesburgh Library,date of official opening,1963
+"Hesburgh Library, completed in 1963, which is the third building to house the main collection of books",Hesburgh Library,start time,1963
+"Hesburgh Library, completed in 1963, which is the third building to house the main collection of books",Hesburgh Library,publication date,1963
+"Hesburgh Library, completed in 1963, which is the third building to house the main collection of books",Hesburgh Library,service entry,1963
+The front of the library is adorned with the Word of Life mural designed by artist Millard Sheets,front,adorned,with
+The front of the library is adorned with the Word of Life mural designed by artist Millard Sheets,Word of Life mural,creator,Millard Sheets
+The front of the library is adorned with the Word of Life mural designed by artist Millard Sheets,Millard Sheets,notable work,Word of Life mural
+The front of the library is adorned with the Word of Life mural designed by artist Millard Sheets,Word of Life,creator,Millard Sheets
+The front of the library is adorned with the Word of Life mural designed by artist Millard Sheets,Millard Sheets,notable work,Word of Life
+"This mural is popularly known as ""Touchdown Jesus"" because of its proximity to Notre Dame Stadium and Jesus' arms appearing to make the signal for a touchdown",mural,known,as
+"This mural is popularly known as ""Touchdown Jesus"" because of its proximity to Notre Dame Stadium and Jesus' arms appearing to make the signal for a touchdown",Touchdown Jesus,depicts,Notre Dame Stadium
+"This mural is popularly known as ""Touchdown Jesus"" because of its proximity to Notre Dame Stadium and Jesus' arms appearing to make the signal for a touchdown",Notre Dame Stadium,uses,touchdown
+"This mural is popularly known as ""Touchdown Jesus"" because of its proximity to Notre Dame Stadium and Jesus' arms appearing to make the signal for a touchdown",touchdown,used by,Notre Dame Stadium
+"This mural is popularly known as ""Touchdown Jesus"" because of its proximity to Notre Dame Stadium and Jesus' arms appearing to make the signal for a touchdown",touchdown,location,Notre Dame Stadium
+"This mural is popularly known as ""Touchdown Jesus"" because of its proximity to Notre Dame Stadium and Jesus' arms appearing to make the signal for a touchdown",Touchdown Jesus,location,Notre Dame Stadium
+"Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19",Dame,known,for
+"Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19",2015,point in time,2015
+"Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19",incoming class enrolling in fall 2015,point in time,2015
+"Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19",in fall 2015,point in time,2015
+"Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19",incoming class,point in time,2015
+"Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19",Notre Dame,population,"18,156"
+7%),2008 Summer Olympics,point in time,2008
+7%),2012 Summer Olympics,point in time,2012
+7%),2012 Olympic Games,point in time,2012
+7%),2007,point in time,2007
+7%),2009,point in time,2009
+The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities,top 10 to 15,is a list of,national research universities
+The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities,national research universities,has part,top 10 to 15
+The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities,top 10 to 15 in the nation,is a list of,research universities
+The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities,top 10,is a list of,15
+The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities,15,said to be the same as,top 10
+The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities,15,different from,top 10
+The university practices a non-restrictive early action policy that allows admitted students to consider admission to Notre Dame as well as any other colleges to which they were accepted,university,practices,policy
+The university practices a non-restrictive early action policy that allows admitted students to consider admission to Notre Dame as well as any other colleges to which they were accepted,early action,subclass of,admission
+The university practices a non-restrictive early action policy that allows admitted students to consider admission to Notre Dame as well as any other colleges to which they were accepted,Notre Dame,instance of,college
+The university practices a non-restrictive early action policy that allows admitted students to consider admission to Notre Dame as well as any other colleges to which they were accepted,early action policy,facet of,Notre Dame
+The university practices a non-restrictive early action policy that allows admitted students to consider admission to Notre Dame as well as any other colleges to which they were accepted,early action policy,part of,Notre Dame
+The university practices a non-restrictive early action policy that allows admitted students to consider admission to Notre Dame as well as any other colleges to which they were accepted,early action,instance of,admission
+"1,400 of the 3,577 (39","3,577",number of participants,39
+"1,400 of the 3,577 (39","3,577",point in time,"3,577"
+"1,400 of the 3,577 (39","3,577",population,39
+"1,400 of the 3,577 (39","3,577",number of participants,"3,577"
+1%) were admitted under the early action plan,%,admitted,under
+1%) were admitted under the early action plan,early action plan,population,1
+1%) were admitted under the early action plan,early action plan,number of participants,1
+1%) were admitted under the early action plan,early action plan,area,1
+1%) were admitted under the early action plan,early action plan,point in time,1
+1%) were admitted under the early action plan,early action plan,event distance,1
+"Admitted students came from 1,311 high schools and the average student traveled more than 750 miles to Notre Dame, making it arguably the most representative university in the United States",students,came,from
+"Admitted students came from 1,311 high schools and the average student traveled more than 750 miles to Notre Dame, making it arguably the most representative university in the United States",Notre Dame,country,United States
+"Admitted students came from 1,311 high schools and the average student traveled more than 750 miles to Notre Dame, making it arguably the most representative university in the United States",most representative university,country,United States
+"Admitted students came from 1,311 high schools and the average student traveled more than 750 miles to Notre Dame, making it arguably the most representative university in the United States",Notre Dame,instance of,university
+"Admitted students came from 1,311 high schools and the average student traveled more than 750 miles to Notre Dame, making it arguably the most representative university in the United States",high schools,country,United States
+"Admitted students came from 1,311 high schools and the average student traveled more than 750 miles to Notre Dame, making it arguably the most representative university in the United States",University of Notre Dame,country,United States
+"While all entering students begin in the College of the First Year of Studies, 25% have indicated they plan to study in the liberal arts or social sciences, 24% in engineering, 24% in business, 24% in science, and 3% in architecture",liberal arts,subclass of,social sciences
+"While all entering students begin in the College of the First Year of Studies, 25% have indicated they plan to study in the liberal arts or social sciences, 24% in engineering, 24% in business, 24% in science, and 3% in architecture",social sciences,has part has part,liberal arts science
+"While all entering students begin in the College of the First Year of Studies, 25% have indicated they plan to study in the liberal arts or social sciences, 24% in engineering, 24% in business, 24% in science, and 3% in architecture",science,part of,social sciences
+"While all entering students begin in the College of the First Year of Studies, 25% have indicated they plan to study in the liberal arts or social sciences, 24% in engineering, 24% in business, 24% in science, and 3% in architecture",liberal arts,instance of,social sciences
+"While all entering students begin in the College of the First Year of Studies, 25% have indicated they plan to study in the liberal arts or social sciences, 24% in engineering, 24% in business, 24% in science, and 3% in architecture",social sciences,has part,liberal arts
+"While all entering students begin in the College of the First Year of Studies, 25% have indicated they plan to study in the liberal arts or social sciences, 24% in engineering, 24% in business, 24% in science, and 3% in architecture",social sciences,subclass of,science
+"While all entering students begin in the College of the First Year of Studies, 25% have indicated they plan to study in the liberal arts or social sciences, 24% in engineering, 24% in business, 24% in science, and 3% in architecture",engineering,subclass of,science
+"While all entering students begin in the College of the First Year of Studies, 25% have indicated they plan to study in the liberal arts or social sciences, 24% in engineering, 24% in business, 24% in science, and 3% in architecture",science,has part,social sciences
+"While all entering students begin in the College of the First Year of Studies, 25% have indicated they plan to study in the liberal arts or social sciences, 24% in engineering, 24% in business, 24% in science, and 3% in architecture",science,subclass of,social sciences
+"In 2015-2016, Notre Dame ranked 18th overall among ""national universities"" in the United States in U",Dame,ranked,18th
+"In 2015-2016, Notre Dame ranked 18th overall among ""national universities"" in the United States in U",national universities,country,United States
+"In 2015-2016, Notre Dame ranked 18th overall among ""national universities"" in the United States in U","Notre Dame ranked 18th overall among ""national universities"" in the United States",point in time,2015-2016
+"In 2015-2016, Notre Dame ranked 18th overall among ""national universities"" in the United States in U","Notre Dame ranked 18th overall among ""national universities"" in the United States in U",point in time,2015-2016
+"In 2015-2016, Notre Dame ranked 18th overall among ""national universities"" in the United States in U","Notre Dame ranked 18th overall among ""national universities"" in the United States",point in time,2015
+"In 2015-2016, Notre Dame ranked 18th overall among ""national universities"" in the United States in U",Notre Dame,member of,national universities
+"In 2015-2016, Notre Dame ranked 18th overall among ""national universities"" in the United States in U",national universities,has part,Notre Dame
+News & World Report's Best Colleges 2016,U.S. News & World Report's Best Colleges 2016,point in time,2016
+News & World Report's Best Colleges 2016,Best Colleges 2016,conferred by,U.S. News & World Report
+News & World Report's Best Colleges 2016,News & World Report's Best Colleges 2016,point in time,2016
+News & World Report's Best Colleges 2016,Best Colleges 2016,publisher,U.S. News & World Report
+News & World Report's Best Colleges 2016,Best Colleges 2016,conferred by,U.S. News & World Report's
+"In 2014, USA Today ranked Notre Dame 10th overall for American universities based on data from College Factual",Today,ranked,Dame
+"In 2014, USA Today ranked Notre Dame 10th overall for American universities based on data from College Factual",College Factual,publisher,USA Today
+"In 2014, USA Today ranked Notre Dame 10th overall for American universities based on data from College Factual",USA Today,owner of,College Factual
+"In 2014, USA Today ranked Notre Dame 10th overall for American universities based on data from College Factual",College Factual,owned by,USA Today
+"In 2014, USA Today ranked Notre Dame 10th overall for American universities based on data from College Factual",USA Today,has part,College Factual
+"In 2014, USA Today ranked Notre Dame 10th overall for American universities based on data from College Factual",College Factual,part of,USA Today
+Forbes,Forbes,owner of,Forbes Money
+Forbes,Forbes,has part,Forbes Money
+Forbes,Forbes,field of work,money
+Forbes,Forbes,owner of,Forbes.com
+Forbes,Forbes,field of work,Money
+"com's America's Best Colleges ranks Notre Dame 13th among colleges in the United States in 2015, 8th among Research Universities, and 1st in the Midwest",Colleges,ranks,13th
+"com's America's Best Colleges ranks Notre Dame 13th among colleges in the United States in 2015, 8th among Research Universities, and 1st in the Midwest",America's Best Colleges,has part,University of Notre Dame
+"com's America's Best Colleges ranks Notre Dame 13th among colleges in the United States in 2015, 8th among Research Universities, and 1st in the Midwest",University of Notre Dame,member of,America's Best Colleges
+"com's America's Best Colleges ranks Notre Dame 13th among colleges in the United States in 2015, 8th among Research Universities, and 1st in the Midwest",America's Best Colleges,country,United States
+"com's America's Best Colleges ranks Notre Dame 13th among colleges in the United States in 2015, 8th among Research Universities, and 1st in the Midwest",Midwest,country,United States
+"com's America's Best Colleges ranks Notre Dame 13th among colleges in the United States in 2015, 8th among Research Universities, and 1st in the Midwest",America's Best Colleges,conferred by,CollegeInsider.com
+"com's America's Best Colleges ranks Notre Dame 13th among colleges in the United States in 2015, 8th among Research Universities, and 1st in the Midwest",Midwest,located in the administrative territorial entity,United States
+U,U,has part,UV
+U,UV,part of,U
+U,U,different from,UV
+U,UV,different from,U
+U,U,located in the administrative territorial entity,U
+U,U,contains administrative territorial entity,U
+U,U,has part,U
+U,U,part of,U
+News & World Report also lists Notre Dame Law School as 22nd overall,News,lists,School
+News & World Report also lists Notre Dame Law School as 22nd overall,Notre Dame Law School,ranking,22
+News & World Report also lists Notre Dame Law School as 22nd overall,Notre Dame Law School,ranking,22nd overall
+News & World Report also lists Notre Dame Law School as 22nd overall,Law School,part of,Notre Dame
+News & World Report also lists Notre Dame Law School as 22nd overall,22nd overall,publisher,News & World Report
+News & World Report also lists Notre Dame Law School as 22nd overall,Notre Dame Law School,ranked by,22nd overall
+BusinessWeek ranks Mendoza College of Business undergraduate school as 1st overall,BusinessWeek,ranks,school
+BusinessWeek ranks Mendoza College of Business undergraduate school as 1st overall,Mendoza College of Business,instance of,undergraduate school
+BusinessWeek ranks Mendoza College of Business undergraduate school as 1st overall,BusinessWeek,has part,1st overall
+BusinessWeek ranks Mendoza College of Business undergraduate school as 1st overall,1st overall,publisher,BusinessWeek
+BusinessWeek ranks Mendoza College of Business undergraduate school as 1st overall,1st overall,part of,BusinessWeek
+BusinessWeek ranks Mendoza College of Business undergraduate school as 1st overall,BusinessWeek,has part,Mendoza College of Business
+BusinessWeek ranks Mendoza College of Business undergraduate school as 1st overall,Mendoza College of Business,conferred by,BusinessWeek
+It ranks the MBA program as 20th overall,It,ranks,program
+It ranks the MBA program as 20th overall,20th overall,is a list of,MBA program
+It ranks the MBA program as 20th overall,20th overall,is a list of,MBA
+It ranks the MBA program as 20th overall,MBA,instance of,program
+It ranks the MBA program as 20th overall,MBA,subclass of,program
+It ranks the MBA program as 20th overall,MBA program,number of participants,20
+"The Philosophical Gourmet Report ranks Notre Dame's graduate philosophy program as 15th nationally, while ARCHITECT Magazine ranked the undergraduate architecture program as 12th nationally",Report,ranks,program
+"The Philosophical Gourmet Report ranks Notre Dame's graduate philosophy program as 15th nationally, while ARCHITECT Magazine ranked the undergraduate architecture program as 12th nationally",architecture program,part of,Notre Dame
+"The Philosophical Gourmet Report ranks Notre Dame's graduate philosophy program as 15th nationally, while ARCHITECT Magazine ranked the undergraduate architecture program as 12th nationally",philosophy program,part of,Notre Dame
+"The Philosophical Gourmet Report ranks Notre Dame's graduate philosophy program as 15th nationally, while ARCHITECT Magazine ranked the undergraduate architecture program as 12th nationally",architecture program,part of,philosophy program
+"The Philosophical Gourmet Report ranks Notre Dame's graduate philosophy program as 15th nationally, while ARCHITECT Magazine ranked the undergraduate architecture program as 12th nationally",architecture,part of,philosophy
+"The Philosophical Gourmet Report ranks Notre Dame's graduate philosophy program as 15th nationally, while ARCHITECT Magazine ranked the undergraduate architecture program as 12th nationally",architecture program,has part,philosophy program
+"Additionally, the study abroad program ranks sixth in highest participation percentage in the nation, with 57",program,ranks,in
+"Additionally, the study abroad program ranks sixth in highest participation percentage in the nation, with 57",highest participation percentage in the nation,is a list of,study abroad program
+"Additionally, the study abroad program ranks sixth in highest participation percentage in the nation, with 57",highest participation percentage in the nation,is a list of,study abroad
+"Additionally, the study abroad program ranks sixth in highest participation percentage in the nation, with 57",highest participation percentage in the nation,facet of,study abroad program
+"Additionally, the study abroad program ranks sixth in highest participation percentage in the nation, with 57",participation percentage,facet of,study abroad program
+"Additionally, the study abroad program ranks sixth in highest participation percentage in the nation, with 57",participation percentage in the nation,facet of,study abroad program
+6% of students choosing to study abroad in 17 countries,17 countries,subclass of,study abroad
+6% of students choosing to study abroad in 17 countries,study abroad,has part,17 countries
+6% of students choosing to study abroad in 17 countries,17 countries,part of,study abroad
+6% of students choosing to study abroad in 17 countries,study abroad,country,17 countries
+6% of students choosing to study abroad in 17 countries,study abroad in 17 countries,number of participants,17
+According to payscale,payscale,instance of,payscale
+According to payscale,payscale,facet of,payscale
+According to payscale,payscale,main subject,payscale
+According to payscale,payscale,uses,payscale
+According to payscale,payscale,use,payscale
+"com, undergraduate alumni of University of Notre Dame have a mid-career median salary $110,000, making it the 24th highest among colleges and universities in the United States",com,have,salary
+"com, undergraduate alumni of University of Notre Dame have a mid-career median salary $110,000, making it the 24th highest among colleges and universities in the United States",University of Notre Dame,instance of,colleges and universities in the United States
+"com, undergraduate alumni of University of Notre Dame have a mid-career median salary $110,000, making it the 24th highest among colleges and universities in the United States",University of Notre Dame,instance of,24th highest among colleges and universities in the United States
+"com, undergraduate alumni of University of Notre Dame have a mid-career median salary $110,000, making it the 24th highest among colleges and universities in the United States",24th highest among colleges and universities in the United States,is a list of,University of Notre Dame
+"com, undergraduate alumni of University of Notre Dame have a mid-career median salary $110,000, making it the 24th highest among colleges and universities in the United States",University of Notre Dame,ranking,24th highest among colleges and universities in the United States
+"The median starting salary of $55,300 ranked 58th in the same peer group",median starting salary,part of,58th in the same peer group
+"The median starting salary of $55,300 ranked 58th in the same peer group",58th in the same peer group,has part,median starting salary
+"The median starting salary of $55,300 ranked 58th in the same peer group","$55,300",instance of,median starting salary
+"The median starting salary of $55,300 ranked 58th in the same peer group",median starting salary,instance of,58th in the same peer group
+"The median starting salary of $55,300 ranked 58th in the same peer group","$55,300",instance of,58th in the same peer group
+"Father Joseph Carrier, C",Joseph Carrier,religious order,C
+"Father Joseph Carrier, C",Joseph Carrier,religious order,C.
+"Father Joseph Carrier, C",Joseph Carrier,religion,C
+"Father Joseph Carrier, C",Joseph Carrier,position held,C
+"Father Joseph Carrier, C",Joseph Carrier,occupation,Father
+C,C,has part,C
+C,CERN,country,Switzerland
+C,C,writing system,C
+C,C,part of,C
+C,C,instance of,C
+was Director of the Science Museum and the Library and Professor of Chemistry and Physics until 1874,Chemistry,has part,Physics
+was Director of the Science Museum and the Library and Professor of Chemistry and Physics until 1874,Physics,part of,Chemistry
+was Director of the Science Museum and the Library and Professor of Chemistry and Physics until 1874,Physics,has part,Chemistry
+was Director of the Science Museum and the Library and Professor of Chemistry and Physics until 1874,Science Museum,has part,Library
+was Director of the Science Museum and the Library and Professor of Chemistry and Physics until 1874,Library,part of,Science Museum
+Carrier taught that scientific research and its promise for progress were not antagonistic to the ideals of intellectual and moral culture endorsed by the Church,scientific research,said to be the same as,promise for progress
+Carrier taught that scientific research and its promise for progress were not antagonistic to the ideals of intellectual and moral culture endorsed by the Church,promise for progress,said to be the same as,scientific research
+Carrier taught that scientific research and its promise for progress were not antagonistic to the ideals of intellectual and moral culture endorsed by the Church,scientific research,has part,promise for progress
+Carrier taught that scientific research and its promise for progress were not antagonistic to the ideals of intellectual and moral culture endorsed by the Church,promise for progress,part of,scientific research
+Carrier taught that scientific research and its promise for progress were not antagonistic to the ideals of intellectual and moral culture endorsed by the Church,promise for progress,subclass of,scientific research
+Carrier taught that scientific research and its promise for progress were not antagonistic to the ideals of intellectual and moral culture endorsed by the Church,scientific research,has effect,promise for progress
+Carrier taught that scientific research and its promise for progress were not antagonistic to the ideals of intellectual and moral culture endorsed by the Church,promise for progress,has cause,scientific research
+One of Carrier's students was Father John Augustine Zahm (1851–1921) who was made Professor and Co-Director of the Science Department at age 23 and by 1900 was a nationally prominent scientist and naturalist,One,was,Zahm
+One of Carrier's students was Father John Augustine Zahm (1851–1921) who was made Professor and Co-Director of the Science Department at age 23 and by 1900 was a nationally prominent scientist and naturalist,John Augustine Zahm,work period (start),1900
+One of Carrier's students was Father John Augustine Zahm (1851–1921) who was made Professor and Co-Director of the Science Department at age 23 and by 1900 was a nationally prominent scientist and naturalist,John Augustine Zahm,occupation,Father
+One of Carrier's students was Father John Augustine Zahm (1851–1921) who was made Professor and Co-Director of the Science Department at age 23 and by 1900 was a nationally prominent scientist and naturalist,John Augustine Zahm,field of work,naturalist
+One of Carrier's students was Father John Augustine Zahm (1851–1921) who was made Professor and Co-Director of the Science Department at age 23 and by 1900 was a nationally prominent scientist and naturalist,John Augustine Zahm,date of death,1900
+One of Carrier's students was Father John Augustine Zahm (1851–1921) who was made Professor and Co-Director of the Science Department at age 23 and by 1900 was a nationally prominent scientist and naturalist,John Augustine Zahm,father,Father John Augustine Zahm
+"Zahm was active in the Catholic Summer School movement, which introduced Catholic laity to contemporary intellectual issues",Zahm,was,in
+"Zahm was active in the Catholic Summer School movement, which introduced Catholic laity to contemporary intellectual issues",Catholic Summer School,movement,Catholic laity
+"Zahm was active in the Catholic Summer School movement, which introduced Catholic laity to contemporary intellectual issues",Catholic Summer School,facet of,Catholic laity
+"Zahm was active in the Catholic Summer School movement, which introduced Catholic laity to contemporary intellectual issues",Catholic Summer School,field of work,Catholic laity
+"Zahm was active in the Catholic Summer School movement, which introduced Catholic laity to contemporary intellectual issues",Catholic laity,religion,Catholic
+"Zahm was active in the Catholic Summer School movement, which introduced Catholic laity to contemporary intellectual issues",laity,religion,Catholic
+"His book Evolution and Dogma (1896) defended certain aspects of evolutionary theory as true, and argued, moreover, that even the great Church teachers Thomas Aquinas and Augustine taught something like it",book,defended,aspects
+"His book Evolution and Dogma (1896) defended certain aspects of evolutionary theory as true, and argued, moreover, that even the great Church teachers Thomas Aquinas and Augustine taught something like it",Evolution and Dogma,main subject,evolutionary theory
+"His book Evolution and Dogma (1896) defended certain aspects of evolutionary theory as true, and argued, moreover, that even the great Church teachers Thomas Aquinas and Augustine taught something like it",Thomas Aquinas,student,Augustine
+"His book Evolution and Dogma (1896) defended certain aspects of evolutionary theory as true, and argued, moreover, that even the great Church teachers Thomas Aquinas and Augustine taught something like it",Augustine,student of,Thomas Aquinas
+"His book Evolution and Dogma (1896) defended certain aspects of evolutionary theory as true, and argued, moreover, that even the great Church teachers Thomas Aquinas and Augustine taught something like it",Augustine,influenced by,Thomas Aquinas
+The intervention of Irish American Catholics in Rome prevented Zahm's censure by the Vatican,intervention,prevented,censure
+The intervention of Irish American Catholics in Rome prevented Zahm's censure by the Vatican,Rome,owned by,Vatican
+The intervention of Irish American Catholics in Rome prevented Zahm's censure by the Vatican,Vatican,capital,Rome
+The intervention of Irish American Catholics in Rome prevented Zahm's censure by the Vatican,Rome,capital of,Vatican
+The intervention of Irish American Catholics in Rome prevented Zahm's censure by the Vatican,Vatican,owner of,Rome
+The intervention of Irish American Catholics in Rome prevented Zahm's censure by the Vatican,Rome,authority,Vatican
+"In 1913, Zahm and former President Theodore Roosevelt embarked on a major expedition through the Amazon",Zahm,embarked,on
+"In 1913, Zahm and former President Theodore Roosevelt embarked on a major expedition through the Amazon",Theodore Roosevelt,position held,President
+"In 1913, Zahm and former President Theodore Roosevelt embarked on a major expedition through the Amazon",a major expedition through the Amazon,participant,Theodore Roosevelt
+"In 1913, Zahm and former President Theodore Roosevelt embarked on a major expedition through the Amazon",Theodore Roosevelt,position held participant in,President major expedition
+"In 1913, Zahm and former President Theodore Roosevelt embarked on a major expedition through the Amazon",major expedition,participant,Theodore Roosevelt
+"In 1913, Zahm and former President Theodore Roosevelt embarked on a major expedition through the Amazon",major expedition through the Amazon,participant,Theodore Roosevelt
+"In 1882, Albert Zahm (John Zahm's brother) built an early wind tunnel used to compare lift to drag of aeronautical models",Zahm,built,tunnel
+"In 1882, Albert Zahm (John Zahm's brother) built an early wind tunnel used to compare lift to drag of aeronautical models",Albert Zahm,sibling,John Zahm
+"In 1882, Albert Zahm (John Zahm's brother) built an early wind tunnel used to compare lift to drag of aeronautical models",John Zahm,sibling,Albert Zahm
+"In 1882, Albert Zahm (John Zahm's brother) built an early wind tunnel used to compare lift to drag of aeronautical models",Albert Zahm,sibling,John Zahm's
+"In 1882, Albert Zahm (John Zahm's brother) built an early wind tunnel used to compare lift to drag of aeronautical models",John Zahm's,sibling,Albert Zahm
+"In 1882, Albert Zahm (John Zahm's brother) built an early wind tunnel used to compare lift to drag of aeronautical models",wind tunnel,use,aeronautical model
+"In 1882, Albert Zahm (John Zahm's brother) built an early wind tunnel used to compare lift to drag of aeronautical models",wind tunnel,use,aeronautical
+"In 1882, Albert Zahm (John Zahm's brother) built an early wind tunnel used to compare lift to drag of aeronautical models",wind tunnel,part of,aeronautical model
+"Around 1899, Professor Jerome Green became the first American to send a wireless message",Green,became,American
+"Around 1899, Professor Jerome Green became the first American to send a wireless message",Jerome Green,country of citizenship,American
+"Around 1899, Professor Jerome Green became the first American to send a wireless message",wireless message,discoverer or inventor,Jerome Green
+"Around 1899, Professor Jerome Green became the first American to send a wireless message",Professor Jerome Green,country of citizenship,American
+"Around 1899, Professor Jerome Green became the first American to send a wireless message",Jerome Green,field of work,wireless message
+"Around 1899, Professor Jerome Green became the first American to send a wireless message",Jerome Green,notable work,wireless message
+"In 1931, Father Julius Nieuwland performed early work on basic reactions that was used to create neoprene",Nieuwland,performed,work
+"In 1931, Father Julius Nieuwland performed early work on basic reactions that was used to create neoprene",neoprene,discoverer or inventor,Julius Nieuwland
+"In 1931, Father Julius Nieuwland performed early work on basic reactions that was used to create neoprene",Julius Nieuwland,field of work,neoprene
+"In 1931, Father Julius Nieuwland performed early work on basic reactions that was used to create neoprene",Julius Nieuwland,notable work,neoprene
+"In 1931, Father Julius Nieuwland performed early work on basic reactions that was used to create neoprene",Julius Nieuwland,product or material produced,neoprene
+"Study of nuclear physics at the university began with the building of a nuclear accelerator in 1936, and continues now partly through a partnership in the Joint Institute for Nuclear Astrophysics",Study,began,with
+"Study of nuclear physics at the university began with the building of a nuclear accelerator in 1936, and continues now partly through a partnership in the Joint Institute for Nuclear Astrophysics",Joint Institute for Nuclear Astrophysics,field of work,nuclear physics
+"Study of nuclear physics at the university began with the building of a nuclear accelerator in 1936, and continues now partly through a partnership in the Joint Institute for Nuclear Astrophysics",Joint Institute for Nuclear Astrophysics,field of work inception,nuclear physics 1936
+"Study of nuclear physics at the university began with the building of a nuclear accelerator in 1936, and continues now partly through a partnership in the Joint Institute for Nuclear Astrophysics",Joint Institute for Nuclear Astrophysics,field of work field of work,nuclear physics nuclear accelerator
+"Study of nuclear physics at the university began with the building of a nuclear accelerator in 1936, and continues now partly through a partnership in the Joint Institute for Nuclear Astrophysics",nuclear accelerator,studied by,nuclear physics
+"Study of nuclear physics at the university began with the building of a nuclear accelerator in 1936, and continues now partly through a partnership in the Joint Institute for Nuclear Astrophysics",Joint Institute for Nuclear Astrophysics,field of work field of work inception,nuclear physics nuclear accelerator 1936
+The Lobund Institute grew out of pioneering research in germ-free-life which began in 1928,Institute,grew,out
+The Lobund Institute grew out of pioneering research in germ-free-life which began in 1928,Lobund Institute,inception,1928
+The Lobund Institute grew out of pioneering research in germ-free-life which began in 1928,Lobund Institute,field of work inception,germ-free-life 1928
+The Lobund Institute grew out of pioneering research in germ-free-life which began in 1928,Lobund Institute,field of work,germ-free-life
+The Lobund Institute grew out of pioneering research in germ-free-life which began in 1928,germ-free-life,discoverer or inventor,Lobund Institute
+The Lobund Institute grew out of pioneering research in germ-free-life which began in 1928,germ-free-life,inception,1928
+This area of research originated in a question posed by Pasteur as to whether animal life was possible without bacteria,area,originated,in
+This area of research originated in a question posed by Pasteur as to whether animal life was possible without bacteria,Pasteur,notable work,whether animal life was possible without bacteria
+This area of research originated in a question posed by Pasteur as to whether animal life was possible without bacteria,whether animal life was possible without bacteria,discoverer or inventor,Pasteur
+This area of research originated in a question posed by Pasteur as to whether animal life was possible without bacteria,Pasteur,notable work,animal life was possible without bacteria
+This area of research originated in a question posed by Pasteur as to whether animal life was possible without bacteria,animal life was possible without bacteria,discoverer or inventor,Pasteur
+This area of research originated in a question posed by Pasteur as to whether animal life was possible without bacteria,Pasteur,field of work,animal life
+This area of research originated in a question posed by Pasteur as to whether animal life was possible without bacteria,Pasteur,field of work,animal life was possible without bacteria
+"Though others had taken up this idea, their research was short lived and inconclusive",research was short lived and inconclusive,subclass of,research
+"Though others had taken up this idea, their research was short lived and inconclusive",research was short lived,subclass of,inconclusive
+"Though others had taken up this idea, their research was short lived and inconclusive",research was short lived,instance of,inconclusive
+"Lobund was the first research organization to answer definitively, that such life is possible and that it can be prolonged through generations",Lobund,was,organization
+"Lobund was the first research organization to answer definitively, that such life is possible and that it can be prolonged through generations",Lobund,instance of,research organization
+"Lobund was the first research organization to answer definitively, that such life is possible and that it can be prolonged through generations",life is possible,has part,generations
+"Lobund was the first research organization to answer definitively, that such life is possible and that it can be prolonged through generations",generations,part of,life is possible
+"Lobund was the first research organization to answer definitively, that such life is possible and that it can be prolonged through generations",generations,has part,generations
+"Lobund was the first research organization to answer definitively, that such life is possible and that it can be prolonged through generations",generations,part of,generations
+"Lobund was the first research organization to answer definitively, that such life is possible and that it can be prolonged through generations",can be prolonged,part of,generations
+"Lobund was the first research organization to answer definitively, that such life is possible and that it can be prolonged through generations",generations,has part,can be prolonged
+"Lobund was the first research organization to answer definitively, that such life is possible and that it can be prolonged through generations",research organization,field of work,research
+But the objective was not merely to answer Pasteur's question but also to produce the germ free animal as a new tool for biological and medical research,biological,has part,medical research
+But the objective was not merely to answer Pasteur's question but also to produce the germ free animal as a new tool for biological and medical research,medical research,part of,biological
+But the objective was not merely to answer Pasteur's question but also to produce the germ free animal as a new tool for biological and medical research,biological,has part,medical
+But the objective was not merely to answer Pasteur's question but also to produce the germ free animal as a new tool for biological and medical research,medical,part of,biological
+But the objective was not merely to answer Pasteur's question but also to produce the germ free animal as a new tool for biological and medical research,medical research,subclass of,biological
+This objective was reached and for years Lobund was a unique center for the study and production of germ free animals and for their use in biological and medical investigations,biological,has part,medical investigations
+This objective was reached and for years Lobund was a unique center for the study and production of germ free animals and for their use in biological and medical investigations,medical investigations,part of,biological
+This objective was reached and for years Lobund was a unique center for the study and production of germ free animals and for their use in biological and medical investigations,biological,has part,medical investigation
+This objective was reached and for years Lobund was a unique center for the study and production of germ free animals and for their use in biological and medical investigations,medical investigation,part of,biological
+This objective was reached and for years Lobund was a unique center for the study and production of germ free animals and for their use in biological and medical investigations,medical investigations,subclass of,biological
+Today the work has spread to other universities,work,spread,to
+Today the work has spread to other universities,"University of California, Berkeley",located in the administrative territorial entity,"Berkeley, California"
+Today the work has spread to other universities,"Berkeley, California",different from,"University of California, Berkeley"
+Today the work has spread to other universities,"Berkeley, California",has part,"University of California, Berkeley"
+Today the work has spread to other universities,"University of California, Berkeley",headquarters location,"Berkeley, California"
+Today the work has spread to other universities,"Berkeley, California",part of,"University of California, Berkeley"
+In the beginning it was under the Department of Biology and a program leading to the master's degree accompanied the research program,it,was,under
+In the beginning it was under the Department of Biology and a program leading to the master's degree accompanied the research program,master's degree,field of work,Biology
+In the beginning it was under the Department of Biology and a program leading to the master's degree accompanied the research program,master's degree,subclass of,research program
+In the beginning it was under the Department of Biology and a program leading to the master's degree accompanied the research program,master's degree,instance of,research program
+In the beginning it was under the Department of Biology and a program leading to the master's degree accompanied the research program,master's degree,studies,Biology
+In the beginning it was under the Department of Biology and a program leading to the master's degree accompanied the research program,master's degree,part of,research program
+In the 1940s Lobund achieved independent status as a purely research organization and in 1950 was raised to the status of an Institute,Lobund,achieved,status
+In the 1940s Lobund achieved independent status as a purely research organization and in 1950 was raised to the status of an Institute,Lobund,instance of,Institute
+In the 1940s Lobund achieved independent status as a purely research organization and in 1950 was raised to the status of an Institute,Institute,subclass of,research organization
+In the 1940s Lobund achieved independent status as a purely research organization and in 1950 was raised to the status of an Institute,Lobund,inception,1950
+"In 1958 it was brought back into the Department of Biology as integral part of that department, but with its own program leading to the degree of PhD in Gnotobiotics",it,brought,as
+"In 1958 it was brought back into the Department of Biology as integral part of that department, but with its own program leading to the degree of PhD in Gnotobiotics",PhD,instance of,degree
+"In 1958 it was brought back into the Department of Biology as integral part of that department, but with its own program leading to the degree of PhD in Gnotobiotics",Department of Biology,inception,1958
+"In 1958 it was brought back into the Department of Biology as integral part of that department, but with its own program leading to the degree of PhD in Gnotobiotics",Gnotobiotics,field of work,Gnotobiotics
+"In 1958 it was brought back into the Department of Biology as integral part of that department, but with its own program leading to the degree of PhD in Gnotobiotics",Gnotobiotics,part of,Department of Biology
+"In 1958 it was brought back into the Department of Biology as integral part of that department, but with its own program leading to the degree of PhD in Gnotobiotics",Gnotobiotics,subclass of,Biology
+"The Review of Politics was founded in 1939 by Gurian, modeled after German Catholic journals",Review,founded,in
+"The Review of Politics was founded in 1939 by Gurian, modeled after German Catholic journals",Review of Politics,inception,1939
+"The Review of Politics was founded in 1939 by Gurian, modeled after German Catholic journals",The Review of Politics,inception,1939
+"The Review of Politics was founded in 1939 by Gurian, modeled after German Catholic journals",Review of Politics,inception founded by,1939 Gurian
+"The Review of Politics was founded in 1939 by Gurian, modeled after German Catholic journals",The Review of Politics,inception founded by,1939 Gurian
+"The Review of Politics was founded in 1939 by Gurian, modeled after German Catholic journals",Gurian,notable work,Review of Politics
+"It quickly emerged as part of an international Catholic intellectual revival, offering an alternative vision to positivist philosophy",It,emerged,as
+"It quickly emerged as part of an international Catholic intellectual revival, offering an alternative vision to positivist philosophy",positivist,subclass of,philosophy
+"It quickly emerged as part of an international Catholic intellectual revival, offering an alternative vision to positivist philosophy",positivist,instance of,philosophy
+"It quickly emerged as part of an international Catholic intellectual revival, offering an alternative vision to positivist philosophy",positivist philosophy,facet of,Catholic
+"It quickly emerged as part of an international Catholic intellectual revival, offering an alternative vision to positivist philosophy",alternative vision,opposite of,positivist philosophy
+"It quickly emerged as part of an international Catholic intellectual revival, offering an alternative vision to positivist philosophy",positivist philosophy,subclass of,Catholic intellectual revival
+"For 44 years, the Review was edited by Gurian, Matthew Fitzsimons, Frederick Crosson, and Thomas Stritch",The Review,editor editor editor,Matthew Fitzsimons Frederick Crosson Thomas Stritch
+"For 44 years, the Review was edited by Gurian, Matthew Fitzsimons, Frederick Crosson, and Thomas Stritch",Thomas Stritch,influenced by,Matthew Fitzsimons
+"For 44 years, the Review was edited by Gurian, Matthew Fitzsimons, Frederick Crosson, and Thomas Stritch",Frederick Crosson,influenced by,Matthew Fitzsimons
+"For 44 years, the Review was edited by Gurian, Matthew Fitzsimons, Frederick Crosson, and Thomas Stritch",Matthew Fitzsimons,influenced by,Frederick Crosson
+"Intellectual leaders included Gurian, Jacques Maritain, Frank O'Malley, Leo Richard Ward, F",leaders,included,Gurian
+"Intellectual leaders included Gurian, Jacques Maritain, Frank O'Malley, Leo Richard Ward, F",Jacques Maritain,influenced by,Gurian
+"Intellectual leaders included Gurian, Jacques Maritain, Frank O'Malley, Leo Richard Ward, F",Frank O'Malley,influenced by,Gurian
+"Intellectual leaders included Gurian, Jacques Maritain, Frank O'Malley, Leo Richard Ward, F",Jacques Maritain,influenced by influenced by,Gurian Frank O'Malley
+"Intellectual leaders included Gurian, Jacques Maritain, Frank O'Malley, Leo Richard Ward, F",Frank O'Malley,influenced by,Jacques Maritain
+"Intellectual leaders included Gurian, Jacques Maritain, Frank O'Malley, Leo Richard Ward, F",Leo Richard Ward,influenced by,Jacques Maritain
+"Hermens, and John U",John U.Hermens,father,John U.Hermens
+"Hermens, and John U",John U.Hermens,child,John U.Hermens
+"Hermens, and John U",John U. Hermens,father,John U. Hermens
+"Hermens, and John U",John U. Hermens,child,John U. Hermens
+"Hermens, and John U",John U,father,John U. Hermens
+"Hermens, and John U",John U. Hermens,child,John U
+"Hermens, and John U",John,father,John U
+"Hermens, and John U",John U,child,John
+Nef,Nef,instance of,Nef
+Nef,Nef,has part,Nef
+Nef,Nef,family,Nef
+Nef,Nef,father,Nef
+Nef,Nef,country,Nigeria
+"It became a major forum for political ideas and modern political concerns, especially from a Catholic and scholastic tradition",It,became,forum
+"It became a major forum for political ideas and modern political concerns, especially from a Catholic and scholastic tradition",scholastic,facet of,Catholic
+"It became a major forum for political ideas and modern political concerns, especially from a Catholic and scholastic tradition",scholastic tradition,facet of,Catholic
+"It became a major forum for political ideas and modern political concerns, especially from a Catholic and scholastic tradition",Catholic,has part,scholastic
+"It became a major forum for political ideas and modern political concerns, especially from a Catholic and scholastic tradition",scholastic,part of,Catholic
+"It became a major forum for political ideas and modern political concerns, especially from a Catholic and scholastic tradition",scholastic,religion,Catholic
+"It became a major forum for political ideas and modern political concerns, especially from a Catholic and scholastic tradition",scholastic,subclass of,Catholic
+As of 2012[update] research continued in many fields,research,continued,in
+As of 2012[update] research continued in many fields,2012,point in time,2012
+As of 2012[update] research continued in many fields,As of 2012,point in time,2012
+As of 2012[update] research continued in many fields,research continued in many fields,publication date,2012
+As of 2012[update] research continued in many fields,2012(update),point in time,2012
+As of 2012[update] research continued in many fields,research continued in many fields,point in time,2012
+"The university president, John Jenkins, described his hope that Notre Dame would become ""one of the pre–eminent research institutions in the world"" in his inaugural address",president,described,hope
+"The university president, John Jenkins, described his hope that Notre Dame would become ""one of the pre–eminent research institutions in the world"" in his inaugural address",John Jenkins,position held,university president
+"The university president, John Jenkins, described his hope that Notre Dame would become ""one of the pre–eminent research institutions in the world"" in his inaugural address",John Jenkins,employer,Notre Dame
+"The university president, John Jenkins, described his hope that Notre Dame would become ""one of the pre–eminent research institutions in the world"" in his inaugural address",John Jenkins,educated at,Notre Dame
+"The university president, John Jenkins, described his hope that Notre Dame would become ""one of the pre–eminent research institutions in the world"" in his inaugural address",his inaugural address,author,John Jenkins
+"The university president, John Jenkins, described his hope that Notre Dame would become ""one of the pre–eminent research institutions in the world"" in his inaugural address",John Jenkins,occupation,university president
+"The university has many multi-disciplinary institutes devoted to research in varying fields, including the Medieval Institute, the Kellogg Institute for International Studies, the Kroc Institute for International Peace studies, and the Center for Social Concerns",university,has,institutes
+"The university has many multi-disciplinary institutes devoted to research in varying fields, including the Medieval Institute, the Kellogg Institute for International Studies, the Kroc Institute for International Peace studies, and the Center for Social Concerns",Kellogg Institute for International Studies,has part,Kroc Institute for International Peace studies
+"The university has many multi-disciplinary institutes devoted to research in varying fields, including the Medieval Institute, the Kellogg Institute for International Studies, the Kroc Institute for International Peace studies, and the Center for Social Concerns",Kroc Institute for International Peace studies,part of,Kellogg Institute for International Studies
+"The university has many multi-disciplinary institutes devoted to research in varying fields, including the Medieval Institute, the Kellogg Institute for International Studies, the Kroc Institute for International Peace studies, and the Center for Social Concerns",Kellogg Institute for International Studies,subsidiary,Kroc Institute for International Peace studies
+"The university has many multi-disciplinary institutes devoted to research in varying fields, including the Medieval Institute, the Kellogg Institute for International Studies, the Kroc Institute for International Peace studies, and the Center for Social Concerns",Kroc Institute for International Peace studies,parent organization,Kellogg Institute for International Studies
+"The university has many multi-disciplinary institutes devoted to research in varying fields, including the Medieval Institute, the Kellogg Institute for International Studies, the Kroc Institute for International Peace studies, and the Center for Social Concerns",Medieval Institute,part of,Kellogg Institute for International Studies
+"The university has many multi-disciplinary institutes devoted to research in varying fields, including the Medieval Institute, the Kellogg Institute for International Studies, the Kroc Institute for International Peace studies, and the Center for Social Concerns",Kellogg Institute for International Studies,has part,Medieval Institute
+"Recent research includes work on family conflict and child development, genome mapping, the increasing trade deficit of the United States with China, studies in fluid mechanics, computational science and engineering, and marketing trends on the Internet",research,includes,work
+"Recent research includes work on family conflict and child development, genome mapping, the increasing trade deficit of the United States with China, studies in fluid mechanics, computational science and engineering, and marketing trends on the Internet",United States,shares border with,China
+"Recent research includes work on family conflict and child development, genome mapping, the increasing trade deficit of the United States with China, studies in fluid mechanics, computational science and engineering, and marketing trends on the Internet",China,shares border with,United States
+"Recent research includes work on family conflict and child development, genome mapping, the increasing trade deficit of the United States with China, studies in fluid mechanics, computational science and engineering, and marketing trends on the Internet",trade deficit,country,United States
+"Recent research includes work on family conflict and child development, genome mapping, the increasing trade deficit of the United States with China, studies in fluid mechanics, computational science and engineering, and marketing trends on the Internet",United States,diplomatic relation,China
+"Recent research includes work on family conflict and child development, genome mapping, the increasing trade deficit of the United States with China, studies in fluid mechanics, computational science and engineering, and marketing trends on the Internet",China,diplomatic relation,United States
+"As of 2013, the university is home to the Notre Dame Global Adaptation Index which ranks countries annually based on how vulnerable they are to climate change and how prepared they are to adapt",university,is,home
+"As of 2013, the university is home to the Notre Dame Global Adaptation Index which ranks countries annually based on how vulnerable they are to climate change and how prepared they are to adapt",adapt,facet of,climate change
+"As of 2013, the university is home to the Notre Dame Global Adaptation Index which ranks countries annually based on how vulnerable they are to climate change and how prepared they are to adapt",climate change,has effect,adapt
+"As of 2013, the university is home to the Notre Dame Global Adaptation Index which ranks countries annually based on how vulnerable they are to climate change and how prepared they are to adapt",Notre Dame Global Adaptation Index,inception,2013
+"As of 2013, the university is home to the Notre Dame Global Adaptation Index which ranks countries annually based on how vulnerable they are to climate change and how prepared they are to adapt",Notre Dame Global Adaptation Index,main subject,climate change
+"As of 2013, the university is home to the Notre Dame Global Adaptation Index which ranks countries annually based on how vulnerable they are to climate change and how prepared they are to adapt",Notre Dame Global Adaptation Index,inception main subject,2013 climate change
+"In 2014 the Notre Dame student body consisted of 12,179 students, with 8,448 undergraduates, 2,138 graduate and professional and 1,593 professional (Law, M",body,consisted,of
+"In 2014 the Notre Dame student body consisted of 12,179 students, with 8,448 undergraduates, 2,138 graduate and professional and 1,593 professional (Law, M",Notre Dame student body,number of participants,"12,179"
+"In 2014 the Notre Dame student body consisted of 12,179 students, with 8,448 undergraduates, 2,138 graduate and professional and 1,593 professional (Law, M",Notre Dame student body,population,"12,179"
+"In 2014 the Notre Dame student body consisted of 12,179 students, with 8,448 undergraduates, 2,138 graduate and professional and 1,593 professional (Law, M",Law,practiced by,professional
+"In 2014 the Notre Dame student body consisted of 12,179 students, with 8,448 undergraduates, 2,138 graduate and professional and 1,593 professional (Law, M",professional,field of this occupation,Law
+"In 2014 the Notre Dame student body consisted of 12,179 students, with 8,448 undergraduates, 2,138 graduate and professional and 1,593 professional (Law, M",Notre Dame student body,number of participants,"12,179 students"
+"In 2014 the Notre Dame student body consisted of 12,179 students, with 8,448 undergraduates, 2,138 graduate and professional and 1,593 professional (Law, M",student body,represents,Notre Dame
+", Business, M",Business,has part,M
+", Business, M",M,part of,Business
+", Business, M",Business,said to be the same as,M
+", Business, M",M,said to be the same as,Business
+", Business, M",M,instance of,Business
+", Business, M",M,subclass of,Business
+Ed,Ed,author,Edvard Munch
+Ed,Ed,creator,Edvard Grieg
+Ed,Ed,influenced by,Edvard Munch
+Ed,Ed,creator,Edvard Munch
+Ed,Ed,author,Edvard Grieg
+) students,students,subclass of,students
+) students,students,has part,students
+) students,students,part of,students
+) students,student,subclass of,student
+"Around 21–24% of students are children of alumni, and although 37% of students come from the Midwestern United States, the student body represents all 50 states and 100 countries",%,are,children
+"Around 21–24% of students are children of alumni, and although 37% of students come from the Midwestern United States, the student body represents all 50 states and 100 countries",Midwestern,country,United States
+"Around 21–24% of students are children of alumni, and although 37% of students come from the Midwestern United States, the student body represents all 50 states and 100 countries",Midwestern,located in the administrative territorial entity,United States
+"Around 21–24% of students are children of alumni, and although 37% of students come from the Midwestern United States, the student body represents all 50 states and 100 countries",Midwestern United States,located in the administrative territorial entity,United States
+"Around 21–24% of students are children of alumni, and although 37% of students come from the Midwestern United States, the student body represents all 50 states and 100 countries",Midwestern United States,part of,50 states and 100 countries
+"Around 21–24% of students are children of alumni, and although 37% of students come from the Midwestern United States, the student body represents all 50 states and 100 countries",Midwestern United States,instance of,50 states
+As of March 2007[update] The Princeton Review ranked the school as the fifth highest 'dream school' for parents to send their children,Review,ranked,school
+As of March 2007[update] The Princeton Review ranked the school as the fifth highest 'dream school' for parents to send their children,fifth highest 'dream school',conferred by,The Princeton Review
+As of March 2007[update] The Princeton Review ranked the school as the fifth highest 'dream school' for parents to send their children,fifth highest 'dream school',conferred by,Princeton Review
+As of March 2007[update] The Princeton Review ranked the school as the fifth highest 'dream school' for parents to send their children,fifth highest 'dream school' for parents,conferred by,The Princeton Review
+As of March 2007[update] The Princeton Review ranked the school as the fifth highest 'dream school' for parents to send their children,fifth highest 'dream school',published in,The Princeton Review
+As of March 2007[update] The Princeton Review ranked the school as the fifth highest 'dream school' for parents to send their children,fifth highest 'dream school',publisher,The Princeton Review
+As of March 2015[update] The Princeton Review ranked Notre Dame as the ninth highest,Review,ranked,Dame
+As of March 2015[update] The Princeton Review ranked Notre Dame as the ninth highest,ninth highest,conferred by,The Princeton Review
+As of March 2015[update] The Princeton Review ranked Notre Dame as the ninth highest,Notre Dame,ranking,ninth highest
+As of March 2015[update] The Princeton Review ranked Notre Dame as the ninth highest,ninth highest,publisher,The Princeton Review
+As of March 2015[update] The Princeton Review ranked Notre Dame as the ninth highest,ninth highest,conferred by,Princeton Review
+As of March 2015[update] The Princeton Review ranked Notre Dame as the ninth highest,ninth highest,publisher,Princeton Review
+"The school has been previously criticized for its lack of diversity, and The Princeton Review ranks the university highly among schools at which ""Alternative Lifestyles [are] Not an Alternative",school,criticized,for
+"The school has been previously criticized for its lack of diversity, and The Princeton Review ranks the university highly among schools at which ""Alternative Lifestyles [are] Not an Alternative",Alternative Lifestyles,published in,The Princeton Review
+"The school has been previously criticized for its lack of diversity, and The Princeton Review ranks the university highly among schools at which ""Alternative Lifestyles [are] Not an Alternative",Alternative Lifestyles [are] Not an Alternative,published in,The Princeton Review
+"The school has been previously criticized for its lack of diversity, and The Princeton Review ranks the university highly among schools at which ""Alternative Lifestyles [are] Not an Alternative",Alternative Lifestyles,published in,Princeton Review
+"The school has been previously criticized for its lack of diversity, and The Princeton Review ranks the university highly among schools at which ""Alternative Lifestyles [are] Not an Alternative",The Princeton Review,main subject,Alternative Lifestyles
+"The school has been previously criticized for its lack of diversity, and The Princeton Review ranks the university highly among schools at which ""Alternative Lifestyles [are] Not an Alternative",Alternative Lifestyles [are] Not an Alternative,published in,Princeton Review
+""" It has also been commended by some diversity oriented publications; Hispanic Magazine in 2004 ranked the university ninth on its list of the top–25 colleges for Latinos, and The Journal of Blacks in Higher Education recognized the university in 2006 for raising enrollment of African-American students",Magazine,ranked,university
+""" It has also been commended by some diversity oriented publications; Hispanic Magazine in 2004 ranked the university ninth on its list of the top–25 colleges for Latinos, and The Journal of Blacks in Higher Education recognized the university in 2006 for raising enrollment of African-American students",The Journal of Blacks in Higher Education,main subject,African-American
+""" It has also been commended by some diversity oriented publications; Hispanic Magazine in 2004 ranked the university ninth on its list of the top–25 colleges for Latinos, and The Journal of Blacks in Higher Education recognized the university in 2006 for raising enrollment of African-American students",Journal of Blacks in Higher Education,main subject,African-American
+""" It has also been commended by some diversity oriented publications; Hispanic Magazine in 2004 ranked the university ninth on its list of the top–25 colleges for Latinos, and The Journal of Blacks in Higher Education recognized the university in 2006 for raising enrollment of African-American students",The Journal of Blacks in Higher Education,main subject,African-American students
+""" It has also been commended by some diversity oriented publications; Hispanic Magazine in 2004 ranked the university ninth on its list of the top–25 colleges for Latinos, and The Journal of Blacks in Higher Education recognized the university in 2006 for raising enrollment of African-American students",The Journal of Blacks in Higher Education,main subject,diversity oriented publications
+""" It has also been commended by some diversity oriented publications; Hispanic Magazine in 2004 ranked the university ninth on its list of the top–25 colleges for Latinos, and The Journal of Blacks in Higher Education recognized the university in 2006 for raising enrollment of African-American students",Journal of Blacks in Higher Education,main subject,African-American students
+"With 6,000 participants, the university's intramural sports program was named in 2004 by Sports Illustrated as the best program in the country, while in 2007 The Princeton Review named it as the top school where ""Everyone Plays Intramural Sports",program,named,in
+"With 6,000 participants, the university's intramural sports program was named in 2004 by Sports Illustrated as the best program in the country, while in 2007 The Princeton Review named it as the top school where ""Everyone Plays Intramural Sports",2004,point in time,2004
+"With 6,000 participants, the university's intramural sports program was named in 2004 by Sports Illustrated as the best program in the country, while in 2007 The Princeton Review named it as the top school where ""Everyone Plays Intramural Sports",Sports Illustrated,field of work,intramural sports
+"With 6,000 participants, the university's intramural sports program was named in 2004 by Sports Illustrated as the best program in the country, while in 2007 The Princeton Review named it as the top school where ""Everyone Plays Intramural Sports",The Princeton Review,named after,The university's
+"With 6,000 participants, the university's intramural sports program was named in 2004 by Sports Illustrated as the best program in the country, while in 2007 The Princeton Review named it as the top school where ""Everyone Plays Intramural Sports",Sports Illustrated,has part,The Princeton Review
+""" The annual Bookstore Basketball tournament is the largest outdoor five-on-five tournament in the world with over 700 teams participating each year, while the Notre Dame Men's Boxing Club hosts the annual Bengal Bouts tournament that raises money for the Holy Cross Missions in Bangladesh",tournament,is,tournament
+""" The annual Bookstore Basketball tournament is the largest outdoor five-on-five tournament in the world with over 700 teams participating each year, while the Notre Dame Men's Boxing Club hosts the annual Bengal Bouts tournament that raises money for the Holy Cross Missions in Bangladesh",Holy Cross Missions,country,Bangladesh
+""" The annual Bookstore Basketball tournament is the largest outdoor five-on-five tournament in the world with over 700 teams participating each year, while the Notre Dame Men's Boxing Club hosts the annual Bengal Bouts tournament that raises money for the Holy Cross Missions in Bangladesh",Bengal Bouts,country,Bangladesh
+""" The annual Bookstore Basketball tournament is the largest outdoor five-on-five tournament in the world with over 700 teams participating each year, while the Notre Dame Men's Boxing Club hosts the annual Bengal Bouts tournament that raises money for the Holy Cross Missions in Bangladesh",Notre Dame Men's Boxing Club,country,Bangladesh
+About 80% of undergraduates and 20% of graduate students live on campus,%,live,on
+About 80% of undergraduates and 20% of graduate students live on campus,undergraduates,followed by,graduate students
+About 80% of undergraduates and 20% of graduate students live on campus,undergraduate,followed by,graduate student
+About 80% of undergraduates and 20% of graduate students live on campus,undergraduate,followed by,graduate
+About 80% of undergraduates and 20% of graduate students live on campus,undergraduate,followed by,graduate students
+About 80% of undergraduates and 20% of graduate students live on campus,graduate students,opposite of,undergraduates
+"The majority of the graduate students on campus live in one of four graduate housing complexes on campus, while all on-campus undergraduates live in one of the 29 residence halls",majority,live,in
+"The majority of the graduate students on campus live in one of four graduate housing complexes on campus, while all on-campus undergraduates live in one of the 29 residence halls",graduate,opposite of,undergraduate
+"The majority of the graduate students on campus live in one of four graduate housing complexes on campus, while all on-campus undergraduates live in one of the 29 residence halls",undergraduate,opposite of,graduate
+"The majority of the graduate students on campus live in one of four graduate housing complexes on campus, while all on-campus undergraduates live in one of the 29 residence halls",graduate,opposite of,undergraduates
+"The majority of the graduate students on campus live in one of four graduate housing complexes on campus, while all on-campus undergraduates live in one of the 29 residence halls",undergraduates,opposite of,graduate
+"The majority of the graduate students on campus live in one of four graduate housing complexes on campus, while all on-campus undergraduates live in one of the 29 residence halls",graduate housing complexes,subclass of,residence halls
+"Because of the religious affiliation of the university, all residence halls are single-sex, with 15 male dorms and 14 female dorms",halls,are,sex
+"Because of the religious affiliation of the university, all residence halls are single-sex, with 15 male dorms and 14 female dorms",male dorms,opposite of,female dorms
+"Because of the religious affiliation of the university, all residence halls are single-sex, with 15 male dorms and 14 female dorms",female dorms,opposite of,male dorms
+"Because of the religious affiliation of the university, all residence halls are single-sex, with 15 male dorms and 14 female dorms",male dorm,opposite of,female dorm
+"Because of the religious affiliation of the university, all residence halls are single-sex, with 15 male dorms and 14 female dorms",female dorm,opposite of,male dorm
+"Because of the religious affiliation of the university, all residence halls are single-sex, with 15 male dorms and 14 female dorms",male,opposite of,female
+"Because of the religious affiliation of the university, all residence halls are single-sex, with 15 male dorms and 14 female dorms",female,opposite of,male
+"Because of the religious affiliation of the university, all residence halls are single-sex, with 15 male dorms and 14 female dorms",single-sex,opposite of,female dorms
+"Because of the religious affiliation of the university, all residence halls are single-sex, with 15 male dorms and 14 female dorms",female dorms,opposite of,single-sex
+"The university maintains a visiting policy (known as parietal hours) for those students who live in dormitories, specifying times when members of the opposite sex are allowed to visit other students' dorm rooms; however, all residence halls have 24-hour social spaces for students regardless of gender",halls,have,spaces
+"The university maintains a visiting policy (known as parietal hours) for those students who live in dormitories, specifying times when members of the opposite sex are allowed to visit other students' dorm rooms; however, all residence halls have 24-hour social spaces for students regardless of gender",dormitory,different from,residence hall
+"The university maintains a visiting policy (known as parietal hours) for those students who live in dormitories, specifying times when members of the opposite sex are allowed to visit other students' dorm rooms; however, all residence halls have 24-hour social spaces for students regardless of gender",residence hall,different from,dormitory
+"The university maintains a visiting policy (known as parietal hours) for those students who live in dormitories, specifying times when members of the opposite sex are allowed to visit other students' dorm rooms; however, all residence halls have 24-hour social spaces for students regardless of gender",dormitories,different from,residence hall
+"The university maintains a visiting policy (known as parietal hours) for those students who live in dormitories, specifying times when members of the opposite sex are allowed to visit other students' dorm rooms; however, all residence halls have 24-hour social spaces for students regardless of gender",residence hall,different from,dormitories
+"The university maintains a visiting policy (known as parietal hours) for those students who live in dormitories, specifying times when members of the opposite sex are allowed to visit other students' dorm rooms; however, all residence halls have 24-hour social spaces for students regardless of gender",dormitories,different from,residence halls
+"The university maintains a visiting policy (known as parietal hours) for those students who live in dormitories, specifying times when members of the opposite sex are allowed to visit other students' dorm rooms; however, all residence halls have 24-hour social spaces for students regardless of gender",residence halls,different from,dormitories
+"The university maintains a visiting policy (known as parietal hours) for those students who live in dormitories, specifying times when members of the opposite sex are allowed to visit other students' dorm rooms; however, all residence halls have 24-hour social spaces for students regardless of gender",dormitory,subclass of,residence hall
+"The university maintains a visiting policy (known as parietal hours) for those students who live in dormitories, specifying times when members of the opposite sex are allowed to visit other students' dorm rooms; however, all residence halls have 24-hour social spaces for students regardless of gender",residence hall,has part,dormitory
+Many residence halls have at least one nun and/or priest as a resident,halls,have,nun
+Many residence halls have at least one nun and/or priest as a resident,nun,subclass of,priest
+Many residence halls have at least one nun and/or priest as a resident,nun,different from,priest
+Many residence halls have at least one nun and/or priest as a resident,priest,different from,nun
+Many residence halls have at least one nun and/or priest as a resident,priest,has part,nun
+"There are no traditional social fraternities or sororities at the university, but a majority of students live in the same residence hall for all four years",sorority,different from,social fraternities
+"There are no traditional social fraternities or sororities at the university, but a majority of students live in the same residence hall for all four years",sorority,different from,social fraternity
+"There are no traditional social fraternities or sororities at the university, but a majority of students live in the same residence hall for all four years",sorority,different from,fraternities
+"There are no traditional social fraternities or sororities at the university, but a majority of students live in the same residence hall for all four years",sororities,different from,social fraternities
+"There are no traditional social fraternities or sororities at the university, but a majority of students live in the same residence hall for all four years",sorority,subclass of,social fraternities
+"Some intramural sports are based on residence hall teams, where the university offers the only non-military academy program of full-contact intramural American football",sports,based,on
+"Some intramural sports are based on residence hall teams, where the university offers the only non-military academy program of full-contact intramural American football",intramural,subclass of,sports
+"Some intramural sports are based on residence hall teams, where the university offers the only non-military academy program of full-contact intramural American football",American football,subclass of,sports
+"Some intramural sports are based on residence hall teams, where the university offers the only non-military academy program of full-contact intramural American football",intramural,sport,American football
+"Some intramural sports are based on residence hall teams, where the university offers the only non-military academy program of full-contact intramural American football",full-contact,subclass of,sports
+"At the end of the intramural season, the championship game is played on the field in Notre Dame Stadium",game,played,on
+"At the end of the intramural season, the championship game is played on the field in Notre Dame Stadium",Notre Dame Stadium,instance of,field
+"At the end of the intramural season, the championship game is played on the field in Notre Dame Stadium",championship game,location,Notre Dame Stadium
+"At the end of the intramural season, the championship game is played on the field in Notre Dame Stadium",Notre Dame Stadium,occupant,championship game
+"At the end of the intramural season, the championship game is played on the field in Notre Dame Stadium",Notre Dame Stadium,instance of,the field
+"At the end of the intramural season, the championship game is played on the field in Notre Dame Stadium",Notre Dame Stadium,significant event,championship game
+"The university is affiliated with the Congregation of Holy Cross (Latin: Congregatio a Sancta Cruce, abbreviated postnominals: ""CSC"")",university,affiliated,with
+"The university is affiliated with the Congregation of Holy Cross (Latin: Congregatio a Sancta Cruce, abbreviated postnominals: ""CSC"")",Congregation of Holy Cross,language used,Latin
+"The university is affiliated with the Congregation of Holy Cross (Latin: Congregatio a Sancta Cruce, abbreviated postnominals: ""CSC"")",Congregation of Holy Cross,said to be the same as,Congregatio a Sancta Cruce
+"The university is affiliated with the Congregation of Holy Cross (Latin: Congregatio a Sancta Cruce, abbreviated postnominals: ""CSC"")",Congregatio a Sancta Cruce,said to be the same as,Congregation of Holy Cross
+"The university is affiliated with the Congregation of Holy Cross (Latin: Congregatio a Sancta Cruce, abbreviated postnominals: ""CSC"")",Congregation of Holy Cross,has part,Congregatio a Sancta Cruce
+"The university is affiliated with the Congregation of Holy Cross (Latin: Congregatio a Sancta Cruce, abbreviated postnominals: ""CSC"")",Congregatio a Sancta Cruce,part of,Congregation of Holy Cross
+"The university is affiliated with the Congregation of Holy Cross (Latin: Congregatio a Sancta Cruce, abbreviated postnominals: ""CSC"")",Congregatio a Sancta Cruce,named after,Congregation of Holy Cross
+"The university is affiliated with the Congregation of Holy Cross (Latin: Congregatio a Sancta Cruce, abbreviated postnominals: ""CSC"")",Congregatio a Sancta Cruce,parent organization,Congregation of Holy Cross
+"While religious affiliation is not a criterion for admission, more than 93% of students identify as Christian, with over 80% of the total being Catholic",%,identify,as
+"While religious affiliation is not a criterion for admission, more than 93% of students identify as Christian, with over 80% of the total being Catholic",Catholic,subclass of,Christian
+"While religious affiliation is not a criterion for admission, more than 93% of students identify as Christian, with over 80% of the total being Catholic",Christian,instance of,religious affiliation
+"While religious affiliation is not a criterion for admission, more than 93% of students identify as Christian, with over 80% of the total being Catholic",Catholic,religion,Christian
+"Collectively, Catholic Mass is celebrated over 100 times per week on campus, and a large campus ministry program provides for the faith needs of the community",Mass,celebrated,over
+"Collectively, Catholic Mass is celebrated over 100 times per week on campus, and a large campus ministry program provides for the faith needs of the community",Mass,part of,Catholic
+"Collectively, Catholic Mass is celebrated over 100 times per week on campus, and a large campus ministry program provides for the faith needs of the community",Catholic Mass,part of,faith
+"Collectively, Catholic Mass is celebrated over 100 times per week on campus, and a large campus ministry program provides for the faith needs of the community",Mass,religion,Catholic
+"Collectively, Catholic Mass is celebrated over 100 times per week on campus, and a large campus ministry program provides for the faith needs of the community",Mass,facet of,Catholic
+"Collectively, Catholic Mass is celebrated over 100 times per week on campus, and a large campus ministry program provides for the faith needs of the community",Catholic Mass,facet of,faith
+"There are multitudes of religious statues and artwork around campus, most prominent of which are the statue of Mary on the Main Building, the Notre Dame Grotto, and the Word of Life mural on Hesburgh Library depicting Christ as a teacher",Word of Life mural,location,Hesburgh Library
+"There are multitudes of religious statues and artwork around campus, most prominent of which are the statue of Mary on the Main Building, the Notre Dame Grotto, and the Word of Life mural on Hesburgh Library depicting Christ as a teacher",statue of Mary,part of,Main Building
+"There are multitudes of religious statues and artwork around campus, most prominent of which are the statue of Mary on the Main Building, the Notre Dame Grotto, and the Word of Life mural on Hesburgh Library depicting Christ as a teacher",Main Building,has part,statue of Mary
+"There are multitudes of religious statues and artwork around campus, most prominent of which are the statue of Mary on the Main Building, the Notre Dame Grotto, and the Word of Life mural on Hesburgh Library depicting Christ as a teacher",statue of Mary,location,Main Building
+"There are multitudes of religious statues and artwork around campus, most prominent of which are the statue of Mary on the Main Building, the Notre Dame Grotto, and the Word of Life mural on Hesburgh Library depicting Christ as a teacher",Word of Life mural,location depicts,Hesburgh Library Christ as a teacher
+"Additionally, every classroom displays a crucifix",classroom,displays,crucifix
+"Additionally, every classroom displays a crucifix",crucifix,part of,classroom
+"Additionally, every classroom displays a crucifix",crucifix,use,teaching
+"Additionally, every classroom displays a crucifix",crucifix,used by,teacher
+"Additionally, every classroom displays a crucifix",crucifix,location,classroom
+"Additionally, every classroom displays a crucifix",crucifix,use,classroom
+"There are many religious clubs (catholic and non-Catholic) at the school, including Council #1477 of the Knights of Columbus (KOC), Baptist Collegiate Ministry (BCM), Jewish Club, Muslim Student Association, Orthodox Christian Fellowship, The Mormon Club, and many more",Knights of Columbus,religion,Catholic
+"There are many religious clubs (catholic and non-Catholic) at the school, including Council #1477 of the Knights of Columbus (KOC), Baptist Collegiate Ministry (BCM), Jewish Club, Muslim Student Association, Orthodox Christian Fellowship, The Mormon Club, and many more",Knights of Columbus,religion religion,Catholic non-Catholic
+"There are many religious clubs (catholic and non-Catholic) at the school, including Council #1477 of the Knights of Columbus (KOC), Baptist Collegiate Ministry (BCM), Jewish Club, Muslim Student Association, Orthodox Christian Fellowship, The Mormon Club, and many more",Council #1477,part of,Knights of Columbus
+"There are many religious clubs (catholic and non-Catholic) at the school, including Council #1477 of the Knights of Columbus (KOC), Baptist Collegiate Ministry (BCM), Jewish Club, Muslim Student Association, Orthodox Christian Fellowship, The Mormon Club, and many more",Knights of Columbus,religion,non-Catholic
+"There are many religious clubs (catholic and non-Catholic) at the school, including Council #1477 of the Knights of Columbus (KOC), Baptist Collegiate Ministry (BCM), Jewish Club, Muslim Student Association, Orthodox Christian Fellowship, The Mormon Club, and many more",Council #1477,religious order,Knights of Columbus
+"The Notre Dame KofC are known for being the first collegiate council of KofC, operating a charitable concession stand during every home football game and owning their own building on campus which can be used as a cigar lounge",KofC,known,for
+"The Notre Dame KofC are known for being the first collegiate council of KofC, operating a charitable concession stand during every home football game and owning their own building on campus which can be used as a cigar lounge",Notre Dame KofC,member of,KofC
+"The Notre Dame KofC are known for being the first collegiate council of KofC, operating a charitable concession stand during every home football game and owning their own building on campus which can be used as a cigar lounge",Notre Dame KofC,sport,football
+"The Notre Dame KofC are known for being the first collegiate council of KofC, operating a charitable concession stand during every home football game and owning their own building on campus which can be used as a cigar lounge",KofC,subsidiary,Notre Dame KofC
+"The Notre Dame KofC are known for being the first collegiate council of KofC, operating a charitable concession stand during every home football game and owning their own building on campus which can be used as a cigar lounge",KofC,has part,Notre Dame KofC
+"The Notre Dame KofC are known for being the first collegiate council of KofC, operating a charitable concession stand during every home football game and owning their own building on campus which can be used as a cigar lounge",Notre Dame KofC,member of,collegiate council of KofC
+Fifty-seven chapels are located throughout the campus,chapels,located,throughout
+Fifty-seven chapels are located throughout the campus,chapel,subclass of,church
+Fifty-seven chapels are located throughout the campus,chapel,part of,church
+Fifty-seven chapels are located throughout the campus,Chapel,subclass of,chapel
+Fifty-seven chapels are located throughout the campus,chapel,subclass of,churches
+Fifty-seven chapels are located throughout the campus,Chapel,part of,chapel
+"This Main Building, and the library collection, was entirely destroyed by a fire in April 1879, and the school closed immediately and students were sent home",Building,destroyed,in
+"This Main Building, and the library collection, was entirely destroyed by a fire in April 1879, and the school closed immediately and students were sent home",Library of Congress,located in the administrative territorial entity,"Washington, D.C."
+"This Main Building, and the library collection, was entirely destroyed by a fire in April 1879, and the school closed immediately and students were sent home","Washington, D.C.",owner of,Library of Congress
+"This Main Building, and the library collection, was entirely destroyed by a fire in April 1879, and the school closed immediately and students were sent home",library collection,"dissolved, abolished or demolished date",April 1879
+"This Main Building, and the library collection, was entirely destroyed by a fire in April 1879, and the school closed immediately and students were sent home",library,part of,library collection
+"This Main Building, and the library collection, was entirely destroyed by a fire in April 1879, and the school closed immediately and students were sent home",library collection,has part,library
+"The university founder, Fr",university,named after,Fr.
+"The university founder, Fr",university founder,facet of,Fr.
+"The university founder, Fr",university,founded by,Fr.
+"The university founder, Fr",university founder,field of work,Fr.
+"The university founder, Fr",university founder,field of this occupation,Fr.
+"Sorin and the president at the time, the Rev",president,officeholder,Rev.Sorin
+"Sorin and the president at the time, the Rev",Rev.Sorin,position held,president
+"Sorin and the president at the time, the Rev",President,officeholder,Rev.Sorin
+"Sorin and the president at the time, the Rev",Rev. Sorin,position held,president
+"Sorin and the president at the time, the Rev",Rev. Sorin,position held,president at the time
+"William Corby, immediately planned for the rebuilding of the structure that had housed virtually the entire University",Corby,planned,for
+"William Corby, immediately planned for the rebuilding of the structure that had housed virtually the entire University",William Corby,educated at,University
+"William Corby, immediately planned for the rebuilding of the structure that had housed virtually the entire University",William Corby,employer,University
+"William Corby, immediately planned for the rebuilding of the structure that had housed virtually the entire University",University,chairperson,William Corby
+"William Corby, immediately planned for the rebuilding of the structure that had housed virtually the entire University",University,founded by,William Corby
+Construction was started on the 17th of May and by the incredible zeal of administrator and workers the building was completed before the fall semester of 1879,Construction,started,on
+Construction was started on the 17th of May and by the incredible zeal of administrator and workers the building was completed before the fall semester of 1879,fall semester of 1879,point in time,1879
+Construction was started on the 17th of May and by the incredible zeal of administrator and workers the building was completed before the fall semester of 1879,1879,point in time,1879
+Construction was started on the 17th of May and by the incredible zeal of administrator and workers the building was completed before the fall semester of 1879,fall semester,point in time,1879
+Construction was started on the 17th of May and by the incredible zeal of administrator and workers the building was completed before the fall semester of 1879,Fall semester of 1879,point in time,1879
+Construction was started on the 17th of May and by the incredible zeal of administrator and workers the building was completed before the fall semester of 1879,fall semester of 1879,start time,1879
+The library collection was also rebuilt and stayed housed in the new Main Building for years afterwards,library collection,location,Main Building
+The library collection was also rebuilt and stayed housed in the new Main Building for years afterwards,Main Building,occupant,library collection
+The library collection was also rebuilt and stayed housed in the new Main Building for years afterwards,library collection,headquarters location,Main Building
+The library collection was also rebuilt and stayed housed in the new Main Building for years afterwards,Main Building,instance of,library
+The library collection was also rebuilt and stayed housed in the new Main Building for years afterwards,Main Building,has part,library collection
+"Around the time of the fire, a music hall was opened",a music hall,instance of,music hall
+"Around the time of the fire, a music hall was opened",music hall,significant event,a fire
+"Around the time of the fire, a music hall was opened",a music hall,significant event,a fire
+"Around the time of the fire, a music hall was opened",a music hall was opened,instance of,music hall
+"Around the time of the fire, a music hall was opened",music hall,named after,a fire
+"Eventually becoming known as Washington Hall, it hosted plays and musical acts put on by the school",it,hosted,plays
+"Eventually becoming known as Washington Hall, it hosted plays and musical acts put on by the school",plays,subclass of,musical acts
+"Eventually becoming known as Washington Hall, it hosted plays and musical acts put on by the school",musical acts,has part,plays
+"Eventually becoming known as Washington Hall, it hosted plays and musical acts put on by the school",Washington Hall,instance of,plays
+"Eventually becoming known as Washington Hall, it hosted plays and musical acts put on by the school",musical acts,subclass of,plays
+"Eventually becoming known as Washington Hall, it hosted plays and musical acts put on by the school",plays,part of,musical acts
+"By 1880, a science program was established at the university, and a Science Hall (today LaFortune Student Center) was built in 1883",program,established,at
+"By 1880, a science program was established at the university, and a Science Hall (today LaFortune Student Center) was built in 1883",LaFortune Student Center,inception,1883
+"By 1880, a science program was established at the university, and a Science Hall (today LaFortune Student Center) was built in 1883",Science Hall,part of,LaFortune Student Center
+"By 1880, a science program was established at the university, and a Science Hall (today LaFortune Student Center) was built in 1883",LaFortune Student Center,has part,Science Hall
+"By 1880, a science program was established at the university, and a Science Hall (today LaFortune Student Center) was built in 1883",1880,point in time,1880
+"By 1880, a science program was established at the university, and a Science Hall (today LaFortune Student Center) was built in 1883",1883,point in time,1883
+"By 1880, a science program was established at the university, and a Science Hall (today LaFortune Student Center) was built in 1883",Science Hall,inception,1883
+"By 1880, a science program was established at the university, and a Science Hall (today LaFortune Student Center) was built in 1883",LaFortune Student Center,date of official opening,1883
+The hall housed multiple classrooms and science labs needed for early research at the university,hall,housed,classrooms
+The hall housed multiple classrooms and science labs needed for early research at the university,science lab,subclass of,classrooms
+The hall housed multiple classrooms and science labs needed for early research at the university,science labs,subclass of,classrooms
+The hall housed multiple classrooms and science labs needed for early research at the university,science lab,subclass of,classroom
+The hall housed multiple classrooms and science labs needed for early research at the university,science lab,subclass of,laboratory
+The hall housed multiple classrooms and science labs needed for early research at the university,science labs,part of,classrooms
+"In 1919 Father James Burns became president of Notre Dame, and in three years he produced an academic revolution that brought the school up to national standards by adopting the elective system and moving away from the university's traditional scholastic and classical emphasis",Burns,became,president
+"In 1919 Father James Burns became president of Notre Dame, and in three years he produced an academic revolution that brought the school up to national standards by adopting the elective system and moving away from the university's traditional scholastic and classical emphasis",James Burns,position held,president of Notre Dame
+"In 1919 Father James Burns became president of Notre Dame, and in three years he produced an academic revolution that brought the school up to national standards by adopting the elective system and moving away from the university's traditional scholastic and classical emphasis",James Burns,educated at,Notre Dame
+"In 1919 Father James Burns became president of Notre Dame, and in three years he produced an academic revolution that brought the school up to national standards by adopting the elective system and moving away from the university's traditional scholastic and classical emphasis",James Burns,employer,Notre Dame
+"In 1919 Father James Burns became president of Notre Dame, and in three years he produced an academic revolution that brought the school up to national standards by adopting the elective system and moving away from the university's traditional scholastic and classical emphasis",James Burns,position held,president
+"In 1919 Father James Burns became president of Notre Dame, and in three years he produced an academic revolution that brought the school up to national standards by adopting the elective system and moving away from the university's traditional scholastic and classical emphasis",Father James Burns,educated at,Notre Dame
+"By contrast, the Jesuit colleges, bastions of academic conservatism, were reluctant to move to a system of electives",Jesuit colleges,instance of,bastions of academic conservatism
+"By contrast, the Jesuit colleges, bastions of academic conservatism, were reluctant to move to a system of electives",Jesuit,instance of,bastions of academic conservatism
+"By contrast, the Jesuit colleges, bastions of academic conservatism, were reluctant to move to a system of electives",Jesuit college,instance of,bastions of academic conservatism
+"By contrast, the Jesuit colleges, bastions of academic conservatism, were reluctant to move to a system of electives",Jesuit colleges,subclass of,bastions of academic conservatism
+"By contrast, the Jesuit colleges, bastions of academic conservatism, were reluctant to move to a system of electives",Jesuit,subclass of,bastions of academic conservatism
+Their graduates were shut out of Harvard Law School for that reason,graduates,shut,out
+Their graduates were shut out of Harvard Law School for that reason,Harvard,has part,Law School
+Their graduates were shut out of Harvard Law School for that reason,Law School,part of,Harvard
+Their graduates were shut out of Harvard Law School for that reason,Harvard Law School,has part,graduates
+Their graduates were shut out of Harvard Law School for that reason,graduates,part of,Harvard Law School
+Their graduates were shut out of Harvard Law School for that reason,Harvard,subsidiary,Law School
+Their graduates were shut out of Harvard Law School for that reason,Law School,parent organization,Harvard
+Their graduates were shut out of Harvard Law School for that reason,Harvard Law School,part of,Harvard
+"Notre Dame continued to grow over the years, adding more colleges, programs, and sports teams",programs,represents,Notre Dame
+"Notre Dame continued to grow over the years, adding more colleges, programs, and sports teams",sports teams,represents,Notre Dame
+"Notre Dame continued to grow over the years, adding more colleges, programs, and sports teams",programs,has part,sports teams
+"Notre Dame continued to grow over the years, adding more colleges, programs, and sports teams",sports teams,part of,programs
+"Notre Dame continued to grow over the years, adding more colleges, programs, and sports teams",Notre Dame,has part,sports teams
+"Notre Dame continued to grow over the years, adding more colleges, programs, and sports teams",sports teams,part of,Notre Dame
+"Notre Dame continued to grow over the years, adding more colleges, programs, and sports teams",programs,has part,Notre Dame
+"Notre Dame continued to grow over the years, adding more colleges, programs, and sports teams",sports teams,has part,Notre Dame
+"By 1921, with the addition of the College of Commerce, Notre Dame had grown from a small college to a university with five colleges and a professional law school",addition,grown,from
+"By 1921, with the addition of the College of Commerce, Notre Dame had grown from a small college to a university with five colleges and a professional law school",College of Commerce,inception,1921
+"By 1921, with the addition of the College of Commerce, Notre Dame had grown from a small college to a university with five colleges and a professional law school",College of Commerce,inception parent organization,1921 Notre Dame
+"By 1921, with the addition of the College of Commerce, Notre Dame had grown from a small college to a university with five colleges and a professional law school",Notre Dame,subsidiary,College of Commerce
+"By 1921, with the addition of the College of Commerce, Notre Dame had grown from a small college to a university with five colleges and a professional law school",professional law school,inception,1921
+"By 1921, with the addition of the College of Commerce, Notre Dame had grown from a small college to a university with five colleges and a professional law school",Notre Dame,has part,College of Commerce
+"By 1921, with the addition of the College of Commerce, Notre Dame had grown from a small college to a university with five colleges and a professional law school",law school,inception,1921
+The university continued to expand and add new residence halls and buildings with each subsequent president,residence halls,part of,buildings
+The university continued to expand and add new residence halls and buildings with each subsequent president,buildings,has part,residence halls
+The university continued to expand and add new residence halls and buildings with each subsequent president,residence hall,part of,buildings
+The university continued to expand and add new residence halls and buildings with each subsequent president,buildings,has part,residence hall
+"One of the main driving forces in the growth of the University was its football team, the Notre Dame Fighting Irish",One,was,team
+"One of the main driving forces in the growth of the University was its football team, the Notre Dame Fighting Irish",Notre Dame Fighting Irish,sport,football
+"One of the main driving forces in the growth of the University was its football team, the Notre Dame Fighting Irish",football team,part of,Notre Dame Fighting Irish
+"One of the main driving forces in the growth of the University was its football team, the Notre Dame Fighting Irish",Notre Dame Fighting Irish,has part,football team
+"One of the main driving forces in the growth of the University was its football team, the Notre Dame Fighting Irish",football,named after,Notre Dame Fighting Irish
+"One of the main driving forces in the growth of the University was its football team, the Notre Dame Fighting Irish",football team,has part,Notre Dame Fighting Irish
+"One of the main driving forces in the growth of the University was its football team, the Notre Dame Fighting Irish",Notre Dame Fighting Irish,part of,football team
+"One of the main driving forces in the growth of the University was its football team, the Notre Dame Fighting Irish",football,subsidiary,Notre Dame Fighting Irish
+Knute Rockne became head coach in 1918,Rockne,became,coach
+Knute Rockne became head coach in 1918,1918,point in time,1918
+Knute Rockne became head coach in 1918,Knute Rockne,work period (start),1918
+Knute Rockne became head coach in 1918,Knute Rockne,occupation,head coach
+"Under Rockne, the Irish would post a record of 105 wins, 12 losses, and five ties",Irish,post,record
+"Under Rockne, the Irish would post a record of 105 wins, 12 losses, and five ties",Irish,ranking,105
+"Under Rockne, the Irish would post a record of 105 wins, 12 losses, and five ties",1906 season,point in time,1906
+"Under Rockne, the Irish would post a record of 105 wins, 12 losses, and five ties",12 losses,number of participants,105
+"Under Rockne, the Irish would post a record of 105 wins, 12 losses, and five ties",12 losses,number of participants,12
+"Under Rockne, the Irish would post a record of 105 wins, 12 losses, and five ties",1912,point in time,1912
+"During his 13 years the Irish won three national championships, had five undefeated seasons, won the Rose Bowl in 1925, and produced players such as George Gipp and the ""Four Horsemen""",Irish,won,championships
+"During his 13 years the Irish won three national championships, had five undefeated seasons, won the Rose Bowl in 1925, and produced players such as George Gipp and the ""Four Horsemen""",1925,point in time,1925
+"During his 13 years the Irish won three national championships, had five undefeated seasons, won the Rose Bowl in 1925, and produced players such as George Gipp and the ""Four Horsemen""",George Gipp,part of,"""Four Horsemen"""
+"During his 13 years the Irish won three national championships, had five undefeated seasons, won the Rose Bowl in 1925, and produced players such as George Gipp and the ""Four Horsemen""","""Four Horsemen""",has part,George Gipp
+"During his 13 years the Irish won three national championships, had five undefeated seasons, won the Rose Bowl in 1925, and produced players such as George Gipp and the ""Four Horsemen""",George Gipp,work period (start),1925
+"During his 13 years the Irish won three national championships, had five undefeated seasons, won the Rose Bowl in 1925, and produced players such as George Gipp and the ""Four Horsemen""",Four Horsemen,work period (start),1925
+"During his 13 years the Irish won three national championships, had five undefeated seasons, won the Rose Bowl in 1925, and produced players such as George Gipp and the ""Four Horsemen""",George Gipp,member of sports team,"""Four Horsemen"""
+Knute Rockne has the highest winning percentage (,Rockne,has,percentage
+Knute Rockne has the highest winning percentage (,Knute Rockne,award received,highest winning percentage
+Knute Rockne has the highest winning percentage (,highest winning percentage,winner,Knute Rockne
+Knute Rockne has the highest winning percentage (,Knute Rockne,ranking,highest winning percentage
+Knute Rockne has the highest winning percentage (,Knute Rockne,award received,winning percentage
+Knute Rockne has the highest winning percentage (,the highest winning percentage,winner,Knute Rockne
+881) in NCAA Division I/FBS football history,NCAA,has part,Division I/FBS
+881) in NCAA Division I/FBS football history,Division I/FBS,part of,NCAA
+881) in NCAA Division I/FBS football history,NCAA Division I/FBS,sport,football
+881) in NCAA Division I/FBS football history,NCAA,has part,Division I
+881) in NCAA Division I/FBS football history,Division I,part of,NCAA
+881) in NCAA Division I/FBS football history,FBS,organizer,NCAA
+881) in NCAA Division I/FBS football history,FBS,owned by,NCAA
+Rockne's offenses employed the Notre Dame Box and his defenses ran a 7–2–2 scheme,offenses,employed,Box
+Rockne's offenses employed the Notre Dame Box and his defenses ran a 7–2–2 scheme,Notre Dame Box,instance of,7–2–2 scheme
+Rockne's offenses employed the Notre Dame Box and his defenses ran a 7–2–2 scheme,Notre Dame Box,instance of,7–2–2
+Rockne's offenses employed the Notre Dame Box and his defenses ran a 7–2–2 scheme,Notre Dame Box,part of,7–2–2 scheme
+Rockne's offenses employed the Notre Dame Box and his defenses ran a 7–2–2 scheme,7–2–2 scheme,has part,Notre Dame Box
+Rockne's offenses employed the Notre Dame Box and his defenses ran a 7–2–2 scheme,Notre Dame Box,subclass of,7–2–2 scheme
+"The last game Rockne coached was on December 14, 1930 when he led a group of Notre Dame all-stars against the New York Giants in New York City",game,was,on
+"The last game Rockne coached was on December 14, 1930 when he led a group of Notre Dame all-stars against the New York Giants in New York City",New York Giants,located in the administrative territorial entity,New York City
+"The last game Rockne coached was on December 14, 1930 when he led a group of Notre Dame all-stars against the New York Giants in New York City",New York City,located in the administrative territorial entity,New York
+"The last game Rockne coached was on December 14, 1930 when he led a group of Notre Dame all-stars against the New York Giants in New York City",New York City,owner of,New York Giants
+"The last game Rockne coached was on December 14, 1930 when he led a group of Notre Dame all-stars against the New York Giants in New York City",New York Giants,location,New York City
