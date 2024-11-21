@@ -21,3 +21,4 @@ def find_top_relevant_triples(question, sentence_triples, top_n=3):
 def generate_answer_a1(question,llm):
 
     # find triples and
+    return 
