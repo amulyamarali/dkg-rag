@@ -1,4 +1,7 @@
-import collective_confidence_score as ccs
+import numpy as np
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+import collective_confidence_score as wccs
+
 
 def calculate_normalized_metrics(logit_conf, entropy_conf, perplexity, jsd, max_entropy):
     weights = [0.2, 0.25, 0.2, 0.35]
@@ -23,10 +26,10 @@ def calculate_metrics(outputs, max_entropy):
     combined_logits = start_logits + end_logits
 
     # Calculate metrics
-    logit_conf = ccs.calculate_logit_confidence(combined_logits)
-    entropy_conf = ccs.calculate_entropy_confidence(combined_logits)
-    jsd = ccs.calculate_jsd_confidence(combined_logits)
-    perplexity = ccs.calculate_perplexity_confidence(combined_logits)
+    logit_conf = wccs.calculate_logit_confidence(combined_logits)
+    entropy_conf = wccs.calculate_entropy_confidence(combined_logits)
+    jsd = wccs.calculate_jsd_confidence(combined_logits)
+    perplexity = wccs.calculate_perplexity_confidence(combined_logits)
 
     ccs = calculate_normalized_metrics(logit_conf, entropy_conf, perplexity, jsd, max_entropy)
 

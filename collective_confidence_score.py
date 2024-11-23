@@ -3,7 +3,7 @@
 # 2. entropy 
 # 3. semantic simlarity (BERTScore)
 # 4. perplexity
-# 5. jenson shannon divergence (jjd) 
+# 5. jenson shannon divergence (jsd) 
 
 
 import numpy as np
