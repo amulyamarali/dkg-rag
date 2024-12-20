@@ -1,0 +1,83 @@
+Sentence,Head,Relation,Tail
+"Architecturally, the school has a Catholic character",school,hasCharacteristic,Catholic character
+Atop the Main Building's gold dome is a golden statue of the Virgin Mary,Main Building,locatedIn,gold dome
+Atop the Main Building's gold dome is a golden statue of the Virgin Mary,gold dome,partOf,Main Building
+Atop the Main Building's gold dome is a golden statue of the Virgin Mary,golden statue,isProducedBy,Atop
+Atop the Main Building's gold dome is a golden statue of the Virgin Mary,golden statue,hasCharacteristic,golden
+Atop the Main Building's gold dome is a golden statue of the Virgin Mary,golden statue,hasCharacteristic,Virgin Mary
+"Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend ""Venite Ad Me Omnes""",Christ,locatedIn,Main Building
+Next to the Main Building is the Basilica of the Sacred Heart,Basilica of the Sacred Heart,locatedIn,Main Building
+"Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection",Grotto,locatedIn,basilica
+"It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858",Lourdes,locatedIn,France
+"It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858",Saint Bernadette Soubirous,bornIn,Lourdes
+"It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858",Virgin Mary,appeared,Saint Bernadette Soubirous
+"At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.",Mary,locatedIn,the main drive
+"At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.",Mary,locatedIn,the Gold Dome
+"At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.",the statues,locatedIn,the main drive
+"At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.",the statues,locatedIn,the Gold Dome
+"As at most other universities, Notre Dame's students run a number of news media outlets",Notre Dame,alumniOf,students
+"The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals",nine student-run outlets,partOf,newspapers
+"The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals",nine student-run outlets,partOf,radio
+"The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals",nine student-run outlets,partOf,television station
+"The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals",nine student-run outlets,partOf,magazines
+"The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals",nine student-run outlets,partOf,journals
+"Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States",Scholastic magazine,published,September 1876
+"Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States",Scholastic magazine,locatedIn,United States
+"The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork",The Juggler,published,twice a year
+"The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork",The Juggler,hasCharacteristic,student literature and artwork
+The Dome yearbook is published annually,The Dome yearbook,published,
+"The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College",The Observer,published,daily
+"The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College",The Observer,partOf,university
+"The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College",The Observer,partOf,Notre Dame
+"The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College",The Observer,partOf,Saint Mary's College
+"The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College",The Observer,staffed,students
+"Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University",The Observer,is,independent publication
+"Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University",The Observer,does not have,faculty advisor
+"Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University",The Observer,does not have,editorial oversight
+"Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University",The Observer,does not have,University
+"In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published",The Observer,published,1987
+"In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published",Common Sense,published,
+"In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published",students,believed,The Observer
+"In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published",The Observer,hasCharacteristic,conservative bias
+"In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published",Common Sense,hasCharacteristic,liberal
+"Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production",Irish Rover,partOf,conservative paper
+"Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production",Irish Rover,published,2003
+"Neither paper is published as often as The Observer; however, all three are distributed to all students",The Observer,published,
+"Neither paper is published as often as The Observer; however, all three are distributed to all students",The Observer,distributed,all students
+"Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.",Beyond Politics,partOf,Spring 2008
+"Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.",Beyond Politics,published,Spring 2008
+"The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome)",The university,locatedIn,Rome
+"The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome)",The university,partOf,Congregation of Holy Cross
+"Its main seminary, Moreau Seminary, is located on the campus across St",Moreau Seminary,locatedIn,campus
+Joseph lake from the Main Building,Joseph lake,locatedIn,Main Building
+"Old College, the oldest building on campus and located near the shore of St",Old College,locatedIn,campus
+"Old College, the oldest building on campus and located near the shore of St",Old College,locatedIn,shore of St
+"Mary lake, houses undergraduate seminarians",Mary lake,locatedIn,houses
+"Mary lake, houses undergraduate seminarians",houses,partOf,undergraduate seminarians
+"Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto",Retired priests and brothers,reside,Fatima House
+"Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto",Retired priests and brothers,reside,Holy Cross House
+"Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto",Retired priests and brothers,reside,Columba Hall
+"Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto",Fatima House,locatedIn,near the Grotto
+"Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto",Holy Cross House,locatedIn,near the Grotto
+"Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto",Columba Hall,locatedIn,near the Grotto
+The university through the Moreau Seminary has ties to theologian Frederick Buechner,The university,partOf,Moreau Seminary
+The university through the Moreau Seminary has ties to theologian Frederick Buechner,The university,hasTies,Frederick Buechner
+The university through the Moreau Seminary has ties to theologian Frederick Buechner,Frederick Buechner,is,theologian
+"While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.",Buechner,praised,writers
+"While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.",Notre Dame,created,Buechner Prize for Preaching
+"While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.",Moreau Seminary,created,Buechner Prize for Preaching
+"While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.",Buechner Prize for Preaching,isProducedBy,Moreau Seminary
+"While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.",Buechner Prize for Preaching,isProducedBy,Notre Dame
+"The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s",The College of Engineering,partOf,College of Science
+"The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s",The College of Engineering,established,1920
+"The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s",civil and mechanical engineering,partOf,College of Science
+"The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s",civil and mechanical engineering,partOf,The College of Engineering
+"The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s",College of Science,hasProject,civil and mechanical engineering
+"Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S",Fitzpatrick,locatedIn,college
+"Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S",Cushing,locatedIn,college
+"Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S",Stinson-Remick Halls of Engineering,locatedIn,college
+"Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S",aerospace and mechanical engineering,partOf,college
+"Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S",chemical and biomolecular engineering,partOf,college
+"Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S",civil engineering and geological sciences,partOf,college
+"Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S",computer science and engineering,partOf,college
+"Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S",electrical engineering,partOf,college
