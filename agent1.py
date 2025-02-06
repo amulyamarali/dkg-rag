@@ -10,30 +10,29 @@ def generate_knowledge_graph(file):
         df = pd.read_csv(file)
         result = []
         for _, row in df.iterrows():
-            # Convert any non-string values to strings and handle NaN values
             sentence = str(row['Sentence']) if pd.notna(row['Sentence']) else ""
             head = str(row['Head']) if pd.notna(row['Head']) else ""
             relation = str(row['Relation']) if pd.notna(row['Relation']) else ""
             tail = str(row['Tail']) if pd.notna(row['Tail']) else ""
             
-            if sentence and head and relation and tail:  # Only add if all fields are non-empty
+            if sentence and head and relation and tail:
                 result.append((sentence, (head, relation, tail)))
         return result
     except Exception as e:
         print(f"Error in generate_knowledge_graph: {e}")
         return []
 
-def find_top_relevant_triples(question, sentence_triples, top_n=3):
+def find_top_relevant_triples(question, sentence_triples, top_n=3):   ##### PLEASE FIND AN ALTERNATIVE FOR THIS FUNCTION
     try:
         question_words = set(question.lower().split())
         triple_scores = []
 
         for sentence, triple in sentence_triples:
             try:
-                # Ensure we're working with strings
                 head = str(triple[0])
                 tail = str(triple[2])
                 
+                # print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",set(head.lower().split()))
                 head_tail_words = set(head.lower().split()) | set(tail.lower().split())
                 common_words = question_words & head_tail_words
                 score = len(common_words)
@@ -44,7 +43,7 @@ def find_top_relevant_triples(question, sentence_triples, top_n=3):
                 continue
 
         top_triples = sorted(triple_scores, key=lambda x: x[1], reverse=True)[:top_n]
-        return [(triple[0], triple[2]) for triple in top_triples]
+        return [(triple[0], sentence) for triple, score, sentence in top_triples]
     except Exception as e:
         print(f"Error in find_top_relevant_triples: {e}")
         return []
@@ -85,16 +84,16 @@ def answer_question(question, sentence_triples, llm, threshold=0.5):
     try:
         top_relevant_triples = find_top_relevant_triples(question, sentence_triples)
         if not top_relevant_triples:
-            return "I couldn't find relevant information.", []
+            return "I couldn't find relevant information.", [], 0.0
 
         unique_sentences = list(set([triple[1] for triple in top_relevant_triples]))
         combined_context = " ".join(unique_sentences)
         
         answer, confidence_score = get_answer_from_llm(question, combined_context, llm, threshold)
-        return answer, top_relevant_triples
+        return answer, top_relevant_triples, confidence_score
     except Exception as e:
         print(f"Error in answer_question: {e}")
-        return "An error occurred while processing the question.", []
+        return "An error occurred while processing the question.", [], 0.0
 
 def generate_answer_a1(question, llm):
     try:
@@ -104,9 +103,9 @@ def generate_answer_a1(question, llm):
         if not sentence_triples:
             return "Could not process knowledge graph.", 0.0, False, []
 
-        response, triples = answer_question(question, sentence_triples, llm)
+        response, triples, confidence_score = answer_question(question, sentence_triples, llm)
+        print(f"########################### Confidence Score: {confidence_score}")
 
-        # Load model and tokenizer
         model_name = "bert-large-uncased-whole-word-masking-finetuned-squad"
         model = AutoModelForQuestionAnswering.from_pretrained(model_name)
         tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -117,7 +116,6 @@ def generate_answer_a1(question, llm):
 
         max_entropy = np.log(len(tokenizer))
         flag, ccs = eval.calculate_metrics(outputs, max_entropy)
-
         print(f"########################### CCS: {ccs}")
 
         if not flag:

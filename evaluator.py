@@ -12,12 +12,12 @@ def calculate_normalized_metrics(logit_conf, entropy_conf, perplexity, jsd, max_
     normalized_jsd = 1 - jsd  # Lower JSD is better, hence inverse
 
     # CCS calculation using weighted average
-    ccs = (weights[0] * logit_conf +
+    wccs = (weights[0] * logit_conf +
            weights[1] * normalized_entropy +
            weights[2] * normalized_perplexity +
            weights[3] * normalized_jsd)
 
-    return ccs
+    return wccs
 
 def calculate_metrics(outputs, max_entropy):
     # Aggregate logits
