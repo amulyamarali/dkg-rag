@@ -4,7 +4,7 @@ import collective_confidence_score as wccs
 
 
 def calculate_normalized_metrics(logit_conf, entropy_conf, perplexity, jsd, max_entropy):
-    weights = [0.2, 0.25, 0.2, 0.35]
+    weights = [0.4, 0.2, 0.1, 0.3]
 
     # Normalize metrics
     normalized_entropy = 1 - (entropy_conf / max_entropy)
@@ -21,8 +21,12 @@ def calculate_normalized_metrics(logit_conf, entropy_conf, perplexity, jsd, max_
 
 def calculate_metrics(outputs, max_entropy):
     # Aggregate logits
-    start_logits = outputs.start_logits[0].numpy()
-    end_logits = outputs.end_logits[0].numpy()
+    # start_logits = outputs.start_logits[0].numpy()
+    # end_logits = outputs.end_logits[0].numpy()
+
+    start_logits = outputs["start_logits"][0].numpy()
+    end_logits = outputs["end_logits"][0].numpy()
+
     combined_logits = start_logits + end_logits
 
     # Calculate metrics

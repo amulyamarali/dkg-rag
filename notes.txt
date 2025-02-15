@@ -1,3 +1,4 @@
 * find_top_relevant_triples from agent1.py
-* WCCS equation modification 
+* WCCS equation modification ( part1 is to figure out a good model to compute output and also a tokenzer  AND part2 is modifying weigts also if needed the scores as well )
 * Agent 2 is broken, get a clean code working for the same 
+* Draft the journal paper 

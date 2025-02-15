@@ -45,7 +45,7 @@ def load_local_llm():
     return OpenAI(
         base_url="http://localhost:1233/v1",  # Adjust to match your local server endpoint
         openai_api_key="dummy_key",  # Placeholder to bypass the check
-        max_tokens=20,  # Limit to ensure short answers
+        max_tokens=50,  # Limit to ensure short answers
     )
 
 # Streamlit app layout
