@@ -13,13 +13,15 @@ from scipy.spatial.distance import jensenshannon
 def calculate_logit_confidence(logits):
 
     probabilities = np.exp(logits) / np.sum(np.exp(logits))  # Softmax
+    print("Probabilities from softmax logit: ", probabilities)
     return np.max(probabilities)  # Maximum probability
 
 
 def calculate_entropy_confidence(logits):
 
     probabilities = np.exp(logits) / np.sum(np.exp(logits))  # Softmax
-    return -entropy(probabilities, base=2)  # Entropy in bits
+    print("Probabilities: ", probabilities)
+    return entropy(probabilities, base=2)  # Entropy in bits
 
 
 def calculate_perplexity_confidence(logits):

@@ -93,19 +93,36 @@ def find_top_relevant_triples_ashwini(question, sentence_triples, top_n=3):
         sim = []
         for sentence, triple in sentence_triples:
             try:
+                new_sim = []
                 # Convert triple into a single text representation
                 head, relation, tail = str(triple[0]), str(triple[1]), str(triple[2])
                 triple_text = f"{head} {relation} {tail}"
+
+                head_emb = model.encode(head, convert_to_tensor=True)
+                relation_emb = model.encode(relation, convert_to_tensor=True)
+                tail_emb = model.encode(tail, convert_to_tensor=True)
+
+                sim_head = util.pytorch_cos_sim(question_embedding, head_emb).item()
+                sim_relation = util.pytorch_cos_sim(question_embedding, relation_emb).item()
+                sim_tail = util.pytorch_cos_sim(question_embedding, tail_emb).item()
+
+            
 
                 # Compute embeddings and similarity
                 triple_embedding = model.encode(triple_text, convert_to_tensor=True)
                 similarity = util.pytorch_cos_sim(question_embedding, triple_embedding).item()
 
-                sim.append((similarity, sentence, triple))
+                sim.append((similarity, sentence, triple, sim_head, sim_relation, sim_tail))
 
-                if similarity > 0.8:
+                new_sim.append(similarity)
+                new_sim.append(sim_head)
+                new_sim.append(sim_relation)
+                new_sim.append(sim_tail)
+
+                new_sim.sort(reverse=True)
+                if (new_sim[0]+new_sim[1]) > 0.7:
                     triple_scores.append((triple, similarity, sentence))
-
+            
             except Exception as e:
                 print(f"Error processing triple: {e}")
                 continue
@@ -144,7 +161,7 @@ def calculate_confidence(question, sentence, answer):
 
 def get_answer_from_llm(question, sentence, llm, threshold=0.5):
     try:
-        prompt = f"Context: {sentence}\n\nQuestion: {question}\nAnswer:"
+        prompt = f"Context: {sentence}\n\n Make sure the answer is crisp and takes input only from the provided context\n\n Question: {question}\nAnswer:"
         response = llm.generate([prompt])
         
         answer = response.generations[0][0].text.strip()
@@ -159,6 +176,9 @@ def answer_question(question, sentence_triples, llm, threshold=0.5):
     try:
         # top_relevant_triples = find_top_relevant_triples(question, sentence_triples)
         top_relevant_triples = find_top_relevant_triples_ashwini(question, sentence_triples)
+
+        print("TOP RELEVENT TRIPLES",top_relevant_triples)
+
         if not top_relevant_triples:
             return "I couldn't find relevant information.", [], 0.0
 
@@ -166,7 +186,19 @@ def answer_question(question, sentence_triples, llm, threshold=0.5):
         combined_context = " ".join(unique_sentences)
         
         answer, confidence_score = get_answer_from_llm(question, combined_context, llm, threshold)
-        return answer, top_relevant_triples, confidence_score
+
+        # do cosine sim between answer and top_relevant_triples
+        model = SentenceTransformer('all-MiniLM-L6-v2')
+        answer_embedding = model.encode(answer, convert_to_tensor=True)
+        cos_sim = []
+        for sentence in unique_sentences:
+            embedding = model.encode(sentence, convert_to_tensor=True)
+            similarity = util.pytorch_cos_sim(answer_embedding, embedding).item()
+            cos_sim.append(similarity)
+        
+        print("COSINE SIMILARITY: ", cos_sim)
+
+        return answer, top_relevant_triples, confidence_score, max(cos_sim)
     except Exception as e:
         print(f"Error in answer_question: {e}")
         return "An error occurred while processing the question.", [], 0.0
@@ -177,14 +209,14 @@ from transformers import AutoModelForQuestionAnswering, AutoTokenizer
 
 def generate_answer_a1(question, llm):
     try:
-        file = 'relations_groq.csv'
+        file = 'relations_groq_squad.csv'
         sentence_triples = generate_knowledge_graph(file)
 
         if not sentence_triples:
             return "Could not process knowledge graph.", 0.0, False, []
 
         # Generate response using knowledge graph
-        response, triples, confidence_score = answer_question(question, sentence_triples, llm)
+        response, triples, confidence_score, max_cos_sim = answer_question(question, sentence_triples, llm)
         print("########################### Response: ", response)
 
         # Load the tokenizer and model
@@ -218,9 +250,14 @@ def generate_answer_a1(question, llm):
 
         # Compute evaluation metrics using response
         max_entropy = np.log(len(question.split()) + 1)
-        flag, ccs = eval.calculate_metrics(response_tensor, max_entropy)
+
+        print("question count: ", len(question.split())+1)
+
+        print("########################### Max Entropy: ", max_entropy)
+        flag, ccs = eval.calculate_metrics(response_tensor, max_entropy, max_cos_sim)
 
         print(f"########################### CCS: {ccs}")
+        print("FLAG: ", flag)
 
         # If flag is False, generate an alternative response
         if not flag:
