@@ -1,1 +1,1 @@
-# kg-rag
+# DKG-RAG
